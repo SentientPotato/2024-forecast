@@ -1,0 +1,460 @@
+state,election,EVs
+Alabama,1992,9
+Alabama,1996,9
+Alabama,2000,9
+Alabama,2004,9
+Alabama,2008,9
+Alabama,2012,9
+Alabama,2016,9
+Alabama,2020,9
+Alabama,2024,9
+Alaska,1992,3
+Alaska,1996,3
+Alaska,2000,3
+Alaska,2004,3
+Alaska,2008,3
+Alaska,2012,3
+Alaska,2016,3
+Alaska,2020,3
+Alaska,2024,3
+Arizona,1992,8
+Arizona,1996,8
+Arizona,2000,8
+Arizona,2004,10
+Arizona,2008,10
+Arizona,2012,11
+Arizona,2016,11
+Arizona,2020,11
+Arizona,2024,11
+Arkansas,1992,6
+Arkansas,1996,6
+Arkansas,2000,6
+Arkansas,2004,6
+Arkansas,2008,6
+Arkansas,2012,6
+Arkansas,2016,6
+Arkansas,2020,6
+Arkansas,2024,6
+California,1992,54
+California,1996,54
+California,2000,54
+California,2004,55
+California,2008,55
+California,2012,55
+California,2016,55
+California,2020,55
+California,2024,54
+Colorado,1992,8
+Colorado,1996,8
+Colorado,2000,8
+Colorado,2004,9
+Colorado,2008,9
+Colorado,2012,9
+Colorado,2016,9
+Colorado,2020,9
+Colorado,2024,10
+Connecticut,1992,8
+Connecticut,1996,8
+Connecticut,2000,8
+Connecticut,2004,7
+Connecticut,2008,7
+Connecticut,2012,7
+Connecticut,2016,7
+Connecticut,2020,7
+Connecticut,2024,7
+D.C.,1992,3
+D.C.,1996,3
+D.C.,2000,3
+D.C.,2004,3
+D.C.,2008,3
+D.C.,2012,3
+D.C.,2016,3
+D.C.,2020,3
+D.C.,2024,3
+Delaware,1992,3
+Delaware,1996,3
+Delaware,2000,3
+Delaware,2004,3
+Delaware,2008,3
+Delaware,2012,3
+Delaware,2016,3
+Delaware,2020,3
+Delaware,2024,3
+Florida,1992,25
+Florida,1996,25
+Florida,2000,25
+Florida,2004,27
+Florida,2008,27
+Florida,2012,29
+Florida,2016,29
+Florida,2020,29
+Florida,2024,30
+Georgia,1992,13
+Georgia,1996,13
+Georgia,2000,13
+Georgia,2004,15
+Georgia,2008,15
+Georgia,2012,16
+Georgia,2016,16
+Georgia,2020,16
+Georgia,2024,16
+Hawaii,1992,4
+Hawaii,1996,4
+Hawaii,2000,4
+Hawaii,2004,4
+Hawaii,2008,4
+Hawaii,2012,4
+Hawaii,2016,4
+Hawaii,2020,4
+Hawaii,2024,4
+Idaho,1992,4
+Idaho,1996,4
+Idaho,2000,4
+Idaho,2004,4
+Idaho,2008,4
+Idaho,2012,4
+Idaho,2016,4
+Idaho,2020,4
+Idaho,2024,4
+Illinois,1992,22
+Illinois,1996,22
+Illinois,2000,22
+Illinois,2004,21
+Illinois,2008,21
+Illinois,2012,20
+Illinois,2016,20
+Illinois,2020,20
+Illinois,2024,19
+Indiana,1992,12
+Indiana,1996,12
+Indiana,2000,12
+Indiana,2004,11
+Indiana,2008,11
+Indiana,2012,11
+Indiana,2016,11
+Indiana,2020,11
+Indiana,2024,11
+Iowa,1992,7
+Iowa,1996,7
+Iowa,2000,7
+Iowa,2004,7
+Iowa,2008,7
+Iowa,2012,6
+Iowa,2016,6
+Iowa,2020,6
+Iowa,2024,6
+Kansas,1992,6
+Kansas,1996,6
+Kansas,2000,6
+Kansas,2004,6
+Kansas,2008,6
+Kansas,2012,6
+Kansas,2016,6
+Kansas,2020,6
+Kansas,2024,6
+Kentucky,1992,8
+Kentucky,1996,8
+Kentucky,2000,8
+Kentucky,2004,8
+Kentucky,2008,8
+Kentucky,2012,8
+Kentucky,2016,8
+Kentucky,2020,8
+Kentucky,2024,8
+Louisiana,1992,9
+Louisiana,1996,9
+Louisiana,2000,9
+Louisiana,2004,9
+Louisiana,2008,9
+Louisiana,2012,8
+Louisiana,2016,8
+Louisiana,2020,8
+Louisiana,2024,8
+Maine,1992,4
+Maine,1996,4
+Maine,2000,4
+Maine,2004,4
+Maine,2008,4
+Maine,2012,4
+Maine,2016,4
+Maine,2020,4
+Maine,2024,4
+Maryland,1992,10
+Maryland,1996,10
+Maryland,2000,10
+Maryland,2004,10
+Maryland,2008,10
+Maryland,2012,10
+Maryland,2016,10
+Maryland,2020,10
+Maryland,2024,10
+Massachusetts,1992,12
+Massachusetts,1996,12
+Massachusetts,2000,12
+Massachusetts,2004,12
+Massachusetts,2008,12
+Massachusetts,2012,11
+Massachusetts,2016,11
+Massachusetts,2020,11
+Massachusetts,2024,11
+Michigan,1992,18
+Michigan,1996,18
+Michigan,2000,18
+Michigan,2004,17
+Michigan,2008,17
+Michigan,2012,16
+Michigan,2016,16
+Michigan,2020,16
+Michigan,2024,15
+Minnesota,1992,10
+Minnesota,1996,10
+Minnesota,2000,10
+Minnesota,2004,10
+Minnesota,2008,10
+Minnesota,2012,10
+Minnesota,2016,10
+Minnesota,2020,10
+Minnesota,2024,10
+Mississippi,1992,7
+Mississippi,1996,7
+Mississippi,2000,7
+Mississippi,2004,6
+Mississippi,2008,6
+Mississippi,2012,6
+Mississippi,2016,6
+Mississippi,2020,6
+Mississippi,2024,6
+Missouri,1992,11
+Missouri,1996,11
+Missouri,2000,11
+Missouri,2004,11
+Missouri,2008,11
+Missouri,2012,10
+Missouri,2016,10
+Missouri,2020,10
+Missouri,2024,10
+Montana,1992,3
+Montana,1996,3
+Montana,2000,3
+Montana,2004,3
+Montana,2008,3
+Montana,2012,3
+Montana,2016,3
+Montana,2020,3
+Montana,2024,4
+Nebraska,1992,5
+Nebraska,1996,5
+Nebraska,2000,5
+Nebraska,2004,5
+Nebraska,2008,5
+Nebraska,2012,5
+Nebraska,2016,5
+Nebraska,2020,5
+Nebraska,2024,5
+Nevada,1992,4
+Nevada,1996,4
+Nevada,2000,4
+Nevada,2004,5
+Nevada,2008,5
+Nevada,2012,6
+Nevada,2016,6
+Nevada,2020,6
+Nevada,2024,6
+New Hampshire,1992,4
+New Hampshire,1996,4
+New Hampshire,2000,4
+New Hampshire,2004,4
+New Hampshire,2008,4
+New Hampshire,2012,4
+New Hampshire,2016,4
+New Hampshire,2020,4
+New Hampshire,2024,4
+New Jersey,1992,15
+New Jersey,1996,15
+New Jersey,2000,15
+New Jersey,2004,15
+New Jersey,2008,15
+New Jersey,2012,14
+New Jersey,2016,14
+New Jersey,2020,14
+New Jersey,2024,14
+New Mexico,1992,5
+New Mexico,1996,5
+New Mexico,2000,5
+New Mexico,2004,5
+New Mexico,2008,5
+New Mexico,2012,5
+New Mexico,2016,5
+New Mexico,2020,5
+New Mexico,2024,5
+New York,1992,33
+New York,1996,33
+New York,2000,33
+New York,2004,31
+New York,2008,31
+New York,2012,29
+New York,2016,29
+New York,2020,29
+New York,2024,28
+North Carolina,1992,14
+North Carolina,1996,14
+North Carolina,2000,14
+North Carolina,2004,15
+North Carolina,2008,15
+North Carolina,2012,15
+North Carolina,2016,15
+North Carolina,2020,15
+North Carolina,2024,16
+North Dakota,1992,3
+North Dakota,1996,3
+North Dakota,2000,3
+North Dakota,2004,3
+North Dakota,2008,3
+North Dakota,2012,3
+North Dakota,2016,3
+North Dakota,2020,3
+North Dakota,2024,3
+Ohio,1992,21
+Ohio,1996,21
+Ohio,2000,21
+Ohio,2004,20
+Ohio,2008,20
+Ohio,2012,18
+Ohio,2016,18
+Ohio,2020,18
+Ohio,2024,17
+Oklahoma,1992,8
+Oklahoma,1996,8
+Oklahoma,2000,8
+Oklahoma,2004,7
+Oklahoma,2008,7
+Oklahoma,2012,7
+Oklahoma,2016,7
+Oklahoma,2020,7
+Oklahoma,2024,7
+Oregon,1992,7
+Oregon,1996,7
+Oregon,2000,7
+Oregon,2004,7
+Oregon,2008,7
+Oregon,2012,7
+Oregon,2016,7
+Oregon,2020,7
+Oregon,2024,8
+Pennsylvania,1992,23
+Pennsylvania,1996,23
+Pennsylvania,2000,23
+Pennsylvania,2004,21
+Pennsylvania,2008,21
+Pennsylvania,2012,20
+Pennsylvania,2016,20
+Pennsylvania,2020,20
+Pennsylvania,2024,19
+Rhode Island,1992,4
+Rhode Island,1996,4
+Rhode Island,2000,4
+Rhode Island,2004,4
+Rhode Island,2008,4
+Rhode Island,2012,4
+Rhode Island,2016,4
+Rhode Island,2020,4
+Rhode Island,2024,4
+South Carolina,1992,8
+South Carolina,1996,8
+South Carolina,2000,8
+South Carolina,2004,8
+South Carolina,2008,8
+South Carolina,2012,9
+South Carolina,2016,9
+South Carolina,2020,9
+South Carolina,2024,9
+South Dakota,1992,3
+South Dakota,1996,3
+South Dakota,2000,3
+South Dakota,2004,3
+South Dakota,2008,3
+South Dakota,2012,3
+South Dakota,2016,3
+South Dakota,2020,3
+South Dakota,2024,3
+Tennessee,1992,11
+Tennessee,1996,11
+Tennessee,2000,11
+Tennessee,2004,11
+Tennessee,2008,11
+Tennessee,2012,11
+Tennessee,2016,11
+Tennessee,2020,11
+Tennessee,2024,11
+Texas,1992,32
+Texas,1996,32
+Texas,2000,32
+Texas,2004,34
+Texas,2008,34
+Texas,2012,38
+Texas,2016,38
+Texas,2020,38
+Texas,2024,40
+Utah,1992,5
+Utah,1996,5
+Utah,2000,5
+Utah,2004,5
+Utah,2008,5
+Utah,2012,6
+Utah,2016,6
+Utah,2020,6
+Utah,2024,6
+Vermont,1992,3
+Vermont,1996,3
+Vermont,2000,3
+Vermont,2004,3
+Vermont,2008,3
+Vermont,2012,3
+Vermont,2016,3
+Vermont,2020,3
+Vermont,2024,3
+Virginia,1992,13
+Virginia,1996,13
+Virginia,2000,13
+Virginia,2004,13
+Virginia,2008,13
+Virginia,2012,13
+Virginia,2016,13
+Virginia,2020,13
+Virginia,2024,13
+Washington,1992,11
+Washington,1996,11
+Washington,2000,11
+Washington,2004,11
+Washington,2008,11
+Washington,2012,12
+Washington,2016,12
+Washington,2020,12
+Washington,2024,12
+West Virginia,1992,5
+West Virginia,1996,5
+West Virginia,2000,5
+West Virginia,2004,5
+West Virginia,2008,5
+West Virginia,2012,5
+West Virginia,2016,5
+West Virginia,2020,5
+West Virginia,2024,4
+Wisconsin,1992,11
+Wisconsin,1996,11
+Wisconsin,2000,11
+Wisconsin,2004,10
+Wisconsin,2008,10
+Wisconsin,2012,10
+Wisconsin,2016,10
+Wisconsin,2020,10
+Wisconsin,2024,10
+Wyoming,1992,3
+Wyoming,1996,3
+Wyoming,2000,3
+Wyoming,2004,3
+Wyoming,2008,3
+Wyoming,2012,3
+Wyoming,2016,3
+Wyoming,2020,3
+Wyoming,2024,3

@@ -1,0 +1,105 @@
+---
+format: gfm
+editor: visual
+---
+
+# Included Datasets
+
+The following datasets are included in this repository:
+
+-   `voteshare.csv`, data on two-way Democratic voteshare in recent elections
+-   `2016-state-polling.csv` data on state-level election polls in 2016
+    (FiveThirtyEight presently only has data available starting with the 2018
+    election)
+-   `electoral-votes.csv` data on how many electoral votes each state had in
+    each election
+
+## Voteshare data
+
+The data on states' two-way Democratic voteshare in recent elections is
+originally sourced from [MIT's Election Data Science
+Lab](https://electionlab.mit.edu/); the original dataset is available here:
+<https://doi.org/10.7910/DVN/42MVDX>. However, the original data splits out
+candidates' vote totals when listed under multiple parties (such as being
+listed under both the Democratic Party and the Working Families Party in New
+York), so I account for that, then use the data to calculate two-way Democratic
+voteshare and subset down only to the variables we need to store in this
+repository:
+
+-   `election`: the year of the election for an observation (one of 2004, 2008,
+    2012, 2016, or 2020)
+-   `state` the state for the observation (or "District of Columbia")
+-   `twoway` Democratic two-way voteshare, or (Dem votes) / (Dem votes + GOP
+    votes)
+
+## 2016 state-level polling data
+
+[FiveThirtyEight](https://abcnews.go.com/538) publishes [general election polls
+for the US presidential election](https://projects.fivethirtyeight.com/polls/),
+but they [do not have polls from before
+2018](https://abcnews.go.com/538/538s-polls-policy-faqs/story?id=104489193).
+However, [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) provides
+[state-level polling for the 2016 US presidential
+election](https://en.wikipedia.org/wiki/Statewide_opinion_polling_for_the_2016_United_States_presidential_election).
+I used Wikipedia's tables to create a more user-friendly dataset all in one
+CSV.
+
+### Variables
+
+I recorded 11 variables:
+
+-   `election`: The year of the election; this will obviously be 2016 for all
+    observations in this dataset, but it is recorded for convenience when
+    merging with other datasets
+-   `race_id`: Currently this is the same as `Year`, but **warning**: this may
+    change in the future if I add data on more races
+-   `poll_id`: A seven-digit unique numeric ID for each poll
+    -   The first four digits are the election year and the next three digits
+        are the order the polls were listed on Wikipedia
+    -   If the fifth digit is 9, the poll is from Florida
+        -   The Florida polling is actually listed on [its own separate
+            page](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_United_States_presidential_election_in_Florida)
+        -   So `poll_id == 2016901` is the first poll listed on the Florida
+            specific page
+    -   If the fifth digit is 8, Wikipedia did not have an outside link to the
+        poll
+        -   those are also numbered separately, so `poll_id == 2016801` is the
+            first poll without a link.
+-   `question_id`: Presently this indicates how many candidates were options
+    for respondents (ranges from 2 to 6)
+-   `state`: What state is the polling result from?
+-   `start_date`: When did they start fielding the poll?
+-   `end_date`: When did they stop fielding the poll?
+-   `sample_size`: How many respondents did the poll have?
+-   `Dem`: How many respondents indicated support for the Democratic candidate
+    (here Hillary Clinton)?
+-   `GOP`: How many respondents indicated support for the Republican candidate
+    (here Donald Trump)?
+-   `URL`: Where can the poll be found online?
+
+### Procedure
+
+For each state, I copy-pasted each table of polling results into a CSV (with my
+own custom column labels), deleting columns for 3rd party candidates. I then
+used the code in `clean-state-polls.R` to clean the data; that code:
+
+-   Splits up Wikipedia's "Date administered" entry into `start_date` and
+    `end_date`
+-   Generates the poll IDs based on the footnote marker for each poll in the
+    table
+-   Scrapes the poll URLs from the footnote section of the Wikipedia page
+-   Translates percent support for the candidates into number of support
+    responses
+-   Writes out those results so I can easily copy-paste them into the final
+    dataset
+
+## Electoral votes data
+
+I simply copy-pasted the data on how many electoral votes each state had in
+each election from
+<https://en.wikipedia.org/wiki/United_States_Electoral_College#Chronological_table>
+(on April 8, 2024); the dataset has 3 variables:
+
+-   `election` The election year that observation pertains to
+-   `state` The state that observation pertains to
+-   `EVs` How many electoral votes that state had for that election

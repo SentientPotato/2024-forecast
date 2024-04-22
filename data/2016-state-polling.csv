@@ -1,0 +1,674 @@
+election,race_id,poll_id,question_id,state,start_date,end_date,sample_size,Dem,GOP,URL
+2016,2016,2016001,2,Alabama,2016-09-27,2016-09-27,3000,960,1440,http://wkrg.com/2016/09/29/trump-support-slipping-slightly-in-alabama/
+2016,2016,2016002,2,Alaska,2016-09-28,2016-10-02,660,277,304,http://www.adn.com/politics/2016/10/08/new-poll-shows-trump-leads-in-presidential-race-in-alaska-but-not-by-much/
+2016,2016,2016003,4,Alaska,2016-10-21,2016-10-26,400,188,172,https://web.archive.org/web/20161030021510/http://www.craciunresearch.com/wp-content/uploads/2016/10/Press-Release_Presidential-Election-2016_Alaska-Survey_Craciun-Research-_102916.pdf
+2016,2016,2016004,4,Alaska,2016-10-11,2016-10-13,500,180,185,http://midnightsunak.com/2016/10/16/midnight-sun-exclusive-new-poll-shows-trump-clinton-tied-alaska/
+2016,2016,2016005,4,Alaska,2016-10-05,2016-10-06,500,170,185,http://midnightsunak.com/2016/10/07/murkowski-polling-data-shows-clinton-3-points-alaska/
+2016,2016,2016002,4,Alaska,2016-09-28,2016-10-02,660,155,180,http://www.adn.com/politics/2016/10/08/new-poll-shows-trump-leads-in-presidential-race-in-alaska-but-not-by-much/
+2016,2016,2016006,2,Arizona,2016-10-30,2016-11-07,719,295,331,http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626
+2016,2016,2016007,2,Arizona,2016-10-27,2016-11-01,769,354,392,http://i2.cdn.turner.com/cnn/2016/images/11/02/relaz2.pdf
+2016,2016,2016008,2,Arizona,2016-10-06,2016-10-18,1538,584,692,https://web.archive.org/web/20161026000747/http://ipsos-na.com/download/pr.aspx?id=16061
+2016,2016,2016009,2,Arizona,2016-09-06,2016-09-08,649,266,273,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016010,3,Arizona,2016-10-11,2016-10-12,550,236,231,http://us12.campaign-archive2.com/?u=5a280d25318f2afe3f311adb6&id=287ad48d38
+2016,2016,2016011,3,Arizona,2016-09-20,2016-09-22,550,209,220,http://us12.campaign-archive2.com/?u=5a280d25318f2afe3f311adb6&id=ff56065af6&e=3783c2dfd6
+2016,2016,2016012,4,Arizona,2016-11-04,2016-11-06,392,176,184,https://web.archive.org/web/20161108135928/http://www.insightswest.com/news/clinton-is-ahead-of-trump-as-u-s-presidential-election-approaches/
+2016,2016,2016013,4,Arizona,2016-11-01,2016-11-02,550,214,258,https://gallery.mailchimp.com/5a280d25318f2afe3f311adb6/files/AZ_Statewide_LivePoll_Report_11_3.pdf
+2016,2016,2016006,4,Arizona,2016-10-30,2016-11-01,719,288,342,http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626
+2016,2016,2016007,4,Arizona,2016-10-27,2016-11-01,769,338,377,http://i2.cdn.turner.com/cnn/2016/images/11/02/relaz2.pdf
+2016,2016,2016014,4,Arizona,2016-10-29,2016-10-31,2229,1003,981,https://www.scribd.com/document/329707080/Saguaro-Strategies-Arizona-Survey-October-29-31
+2016,2016,2016015,4,Arizona,2016-10-29,2016-10-31,700,301,329,http://media.wix.com/ugd/3bebb2_6ee2070379ba4a88bff29b1fa5aae9e0.pdf
+2016,2016,2016016,4,Arizona,2016-10-29,2016-10-30,550,226,248,https://gallery.mailchimp.com/5a280d25318f2afe3f311adb6/files/AZ_Statewide__LivePoll__Toplines_10_30.pdf
+2016,2016,2016017,4,Arizona,2016-10-26,2016-10-28,994,417,437,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/6mg2jgp2wr/AZ_Final_20161030.pdf
+2016,2016,2016018,4,Arizona,2016-10-26,2016-10-27,550,220,231,https://gallery.mailchimp.com/5a280d25318f2afe3f311adb6/files/AZ_Statewide_LivePoll_Demographics_10_27.01.pdf
+2016,2016,2016019,4,Arizona,2016-10-21,2016-10-24,2385,1145,1097,https://www.scribd.com/document/329155539/Saguaro-Strategies-General-Election-Survey-October-22-24
+2016,2016,2016020,4,Arizona,2016-10-21,2016-10-24,401,180,184,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_AZ_102516/
+2016,2016,2016021,4,Arizona,2016-10-17,2016-10-18,550,226,226,https://gallery.mailchimp.com/5a280d25318f2afe3f311adb6/files/AZ_Statewide_LivePoll_Questionnaire_10_18.pdf
+2016,2016,2016008,4,Arizona,2016-10-06,2016-10-18,1538,600,677,https://web.archive.org/web/20161026000747/http://ipsos-na.com/download/pr.aspx?id=16061
+2016,2016,2016022,4,Arizona,2016-10-10,2016-10-15,713,307,271,http://www.azcentral.com/story/news/politics/elections/2016/10/19/arizona-poll-hillary-clinton-donald-trump/92339110/
+2016,2016,2016023,4,Arizona,2016-10-14,2016-10-14,400,156,148,https://web.archive.org/web/20161018052329/http://www.azhighground.com/blog/post/latest-poll-shows-arizona-is-officially-a-battleground-state
+2016,2016,2016024,4,Arizona,2016-10-02,2016-10-04,600,264,252,http://media.wix.com/ugd/3bebb2_7af2e664bfad4690bfb4a994b0f0836c.pdf
+2016,2016,2016025,4,Arizona,2016-09-28,2016-09-30,718,302,302,http://email.connectstrategic.com/t/j-5C5134BA69C80539
+2016,2016,2016026,4,Arizona,2016-09-12,2016-09-14,484,198,223,https://web.archive.org/web/20160930112543/http://www.insightswest.com/news/trump-leads-in-arizona-and-nevada-clinton-in-california-and-washington/
+2016,2016,2016009,4,Arizona,2016-09-06,2016-09-08,649,247,260,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016027,2,Arkansas,2016-10-18,2016-10-25,800,288,472,https://fulbright.uark.edu/departments/political-science/partners/arkpoll/2016/Arkansas-Poll-Release-2016.pdf
+2016,2016,2016028,4,Arkansas,2016-10-21,2016-10-21,463,153,259,http://talkbusiness.net/2016/10/trump-boozman-maintain-big-leads-in-arkansas/
+2016,2016,2016029,4,Arkansas,2016-09-15,2016-09-17,831,283,457,http://talkbusiness.net/2016/09/poll-donald-trump-extends-lead-over-hillary-clinton-in-arkansas/
+2016,2016,2016030,4,Arkansas,2016-09-09,2016-09-13,600,174,342,http://media.wix.com/ugd/3bebb2_b53ca6b673c14cdab9d68832bd7e74cb.pdf
+2016,2016,2016031,2,California,2016-10-22,2016-10-30,1365,792,437,https://gqrr.app.box.com/s/e43t1oo48vr9kfrz5t1fhl3qbfsoz39v
+2016,2016,2016032,2,California,2016-09-01,2016-09-08,4212,2443,1390,http://www.latimes.com/politics/la-na-pol-california-presidential-poll-20160912-snap-story.html
+2016,2016,2016012,4,California,2016-11-04,2016-11-06,401,233,140,https://web.archive.org/web/20161108135928/http://www.insightswest.com/news/clinton-is-ahead-of-trump-as-u-s-presidential-election-approaches/
+2016,2016,2016033,4,California,2016-10-28,2016-10-31,747,418,261,https://web.archive.org/web/20161104050045/https://cbssanfran.files.wordpress.com/2016/11/survey_usa_president_senate_110116.pdf
+2016,2016,2016031,4,California,2016-10-22,2016-10-30,1365,737,410,https://gqrr.app.box.com/s/e43t1oo48vr9kfrz5t1fhl3qbfsoz39v
+2016,2016,2016034,4,California,2016-10-25,2016-10-31,1498,794,494,http://www.sacbee.com/news/politics-government/capitol-alert/article112168782.html
+2016,2016,2016035,4,California,2016-10-14,2016-10-23,1704,920,477,http://www.ppic.org/content/pubs/survey/S_1016MBS.pdf
+2016,2016,2016036,4,California,2016-10-13,2016-10-15,725,406,218,http://www.surveyusa.com/client/PollReport.aspx?g=2fc82f11-ee2e-4d25-b88d-805a1a9a3ae8
+2016,2016,2016037,4,California,2016-10-04,2016-10-14,1250,675,375,http://www.hoover.org/sites/default/files/hoover_gsp_november_2016_full_results.pdf
+2016,2016,2016038,4,California,2016-10-07,2016-10-13,622,379,156,https://web.archive.org/web/20161024013023/http://www.csus.edu/isr/calspeaks/surveys/october%202016%20election%20topline.pdf
+2016,2016,2016039,4,California,2016-09-27,2016-09-28,732,432,242,https://web.archive.org/web/20161014081410/https://cbssanfran.files.wordpress.com/2016/09/survey_usa_president_senate_092916.pdf
+2016,2016,2016040,4,California,2016-09-09,2016-09-18,1055,496,327,http://www.ppic.org/content/pubs/survey/S_916MBS.pdf
+2016,2016,2016026,4,California,2016-09-12,2016-09-14,515,319,175,https://web.archive.org/web/20160930112543/http://www.insightswest.com/news/trump-leads-in-arizona-and-nevada-clinton-in-california-and-washington/
+2016,2016,2016041,4,California,2016-09-07,2016-09-13,1426,713,471,https://web.archive.org/web/20160923045438/http://www.field.com/fieldpollonline/subscribers/Rls2545.pdf
+2016,2016,2016042,4,California,2016-09-08,2016-09-11,678,386,217,http://www.surveyusa.com/client/PollReport.aspx?g=be4ba04e-e65c-4fbc-9d1c-bf87874ec85d
+2016,2016,2016032,4,California,2016-09-01,2016-09-08,4212,2064,1221,http://www.latimes.com/politics/la-na-pol-california-presidential-poll-20160912-snap-story.html
+2016,2016,2016043,2,Colorado,2016-11-03,2016-11-04,704,352,317,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf
+2016,2016,2016044,2,Colorado,2016-10-29,2016-10-31,550,231,226,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016045,2,Colorado,2016-10-10,2016-10-16,685,349,274,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016046,2,Colorado,2016-09-27,2016-09-28,694,354,305,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016047,2,Colorado,2016-09-20,2016-09-25,784,384,368,http://i2.cdn.turner.com/cnn/2016/images/09/26/relco1.pdf
+2016,2016,2016048,2,Colorado,2016-09-13,2016-09-21,644,303,303,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016049,2,Colorado,2016-09-14,2016-09-18,540,238,189,http://www.coloradomesa.edu/social-research-center/documents/CMU-RMPBS-Poll_FINAL%209-22-16.pdf
+2016,2016,2016050,3,Colorado,2016-11-01,2016-11-02,1863,782,764,http://big.assets.huffingtonpost.com/ABC_CO_STATEWIDE110416.pdf
+2016,2016,2016051,3,Colorado,2016-10-23,2016-10-30,952,428,419,http://www.realclearpolitics.com/docs/2016/Remington_Research_Colorado_October_31_2016.pdf
+2016,2016,2016052,3,Colorado,2016-10-20,2016-10-22,1581,711,680,http://big.assets.huffingtonpost.com/COSTATEWIDE.pdf
+2016,2016,2016053,4,Colorado,2016-10-31,2016-11-03,1150,518,506,http://www.realclearpolitics.com/docs/2016/Trafalgar_Colorado_November_2016.pdf
+2016,2016,2016054,4,Colorado,2016-11-01,2016-11-02,500,220,190,http://magellanstrategies.com/wp-content/uploads/2016/11/Magellan-Strategies-Colorado-US-President-Survey-Summary-110316.pdf
+2016,2016,2016044,4,Colorado,2016-10-29,2016-10-31,550,214,214,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016015,4,Colorado,2016-10-28,2016-10-31,750,330,308,http://media.wix.com/ugd/3bebb2_6ee2070379ba4a88bff29b1fa5aae9e0.pdf
+2016,2016,2016045,4,Colorado,2016-10-10,2016-10-16,685,308,253,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016055,4,Colorado,2016-09-29,2016-10-02,400,196,152,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_CO_100316/
+2016,2016,2016056,4,Colorado,2016-09-27,2016-09-29,602,265,199,http://big.assets.huffingtonpost.com/Keating-Colorado-2016-09-29.pdf
+2016,2016,2016046,4,Colorado,2016-09-27,2016-09-28,694,319,278,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016047,4,Colorado,2016-09-20,2016-09-25,784,321,329,http://i2.cdn.turner.com/cnn/2016/images/09/26/relco1.pdf
+2016,2016,2016057,4,Colorado,2016-09-21,2016-09-23,991,396,386,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/ehkbsotw61/CO_ForRelease_20160925.pdf
+2016,2016,2016048,4,Colorado,2016-09-13,2016-09-21,644,283,270,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016049,4,Colorado,2016-09-14,2016-09-18,540,221,184,http://www.coloradomesa.edu/social-research-center/documents/CMU-RMPBS-Poll_FINAL%209-22-16.pdf
+2016,2016,2016030,4,Colorado,2019-09-09,2016-09-13,600,228,252,http://media.wix.com/ugd/3bebb2_b53ca6b673c14cdab9d68832bd7e74cb.pdf
+2016,2016,2016043,5,Colorado,2016-11-03,2016-11-04,704,338,303,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf
+2016,2016,2016058,5,Colorado,2016-11-02,2016-11-03,605,260,230,http://keatingresearch.com/wp-content/uploads/2016/11/2016Nov4Poll.pdf
+2016,2016,2016059,5,Colorado,2016-10-26,2016-10-28,997,419,389,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/f4ybwd5qg4/CO_Final_20161030.pdf
+2016,2016,2016060,4,Connecticut,2016-09-02,2016-09-05,1000,500,350,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016061,4,Delaware,2016-09-16,2016-09-28,762,389,229,https://www.cpc.udel.edu/content-sub-site/Documents/UD%20CPC%20DE%20poll%20Oct%203%20release%20final.pdf
+2016,2016,2016901,2,Florida,2016-11-03,2016-11-06,884,407,407,https://poll.qu.edu/images/polling/ps/ps11072016.pdf/
+2016,2016,2016902,2,Florida,2016-10-27,2016-11-01,773,386,379,http://i2.cdn.turner.com/cnn/2016/images/11/02/relfl3.pdf
+2016,2016,2016903,2,Florida,2016-10-27,2016-11-01,626,294,282,https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016904,2,Florida,2016-10-31,2016-10-31,1995,1017,978,http://www.realclearpolitics.com/docs/2016/Gravis_FL_November_3rd_2016.pdf
+2016,2016,2016905,2,Florida,2016-10-25,2016-10-27,814,366,391,https://www.siena.edu/assets/files/news/FLUpshot1016_Crosstabs_245.pdf
+2016,2016,2016906,2,Florida,2016-10-25,2016-10-26,779,358,358,https://scribd.com/document/329400532/NBC-News-WSJ-Marist-Florida-Poll
+2016,2016,2016907,2,Florida,2016-10-20,2016-10-25,836,385,368,http://www.news4jax.com/news/elections/unf-poll-clinton-leads-trump-in-four-way-race
+2016,2016,2016908,2,Florida,2016-10-21,2016-10-24,953,429,438,https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rLiMdBxU.ddw/v0
+2016,2016,2016909,2,Florida,2016-10-10,2016-10-16,660,323,297,https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016910,2,Florida,2016-10-12,2016-10-13,985,483,433,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_FL_104161.pdf
+2016,2016,2016911,2,Florida,2016-10-05,2016-10-12,1532,643,613,https://web.archive.org/web/20161026001524/http://ipsos-na.com/download/pr.aspx?id=16060
+2016,2016,2016912,2,Florida,2016-10-03,2016-10-05,700,322,308,http://www.nbcnews.com/storyline/2016-presidential-debates/polls-clinton-ahead-florida-pennsylvania-n662076
+2016,2016,2016913,2,Florida,2016-09-27,2016-10-04,696,327,278,http://www.unf.edu/coas/porl/2016_Florida_Fall_Statewide_Presidential_Poll.aspx
+2016,2016,2016914,2,Florida,2016-09-27,2016-10-02,545,267,240,https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016915,2,Florida,2016-09-27,2016-09-28,826,396,372,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016916,2,Florida,2016-09-15,2016-09-20,617,278,259,http://www.flchamber.com/new-florida-chamber-of-commerce-statewide-poll-shows-presidential-race-too-close-to-call-in-florida/
+2016,2016,2016917,2,Florida,2016-09-10,2016-09-14,867,373,373,https://web.archive.org/web/20160930112839/https://www.siena.edu/assets/files/news/FLUpshot0916_159_Crosstabs.pdf
+2016,2016,2016918,2,Florida,2016-09-07,2016-09-12,788,362,394,http://i2.cdn.turner.com/cnn/2016/images/09/14/floridapoll.pdf
+2016,2016,2016919,2,Florida,2016-09-04,2016-09-06,744,350,342,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_FL_90716.pdf
+2016,2016,2016920,3,Florida,2016-11-01,2016-11-02,2352,1058,1129,http://big.assets.huffingtonpost.com/ABC_FL_STATEWIDE110416.pdf
+2016,2016,2016921,3,Florida,2016-10-23,2016-10-30,989,435,475,http://www.realclearpolitics.com/docs/2016/Remington_Research_Florida_October_31_2016.pdf
+2016,2016,2016922,3,Florida,2016-10-20,2016-10-22,1646,757,757,http://big.assets.huffingtonpost.com/FLSTATEWIDE.pdf
+2016,2016,2016916,3,Florida,2016-09-15,2016-09-20,617,265,253,http://www.flchamber.com/new-florida-chamber-of-commerce-statewide-poll-shows-presidential-race-too-close-to-call-in-florida/
+2016,2016,2016923,4,Florida,2016-11-06,2016-11-06,1100,506,550,https://drive.google.com/file/d/0B4lhKxf9pMitUTc5eVFiWERJRFE/view
+2016,2016,2016901,4,Florida,2016-11-03,2016-11-06,884,407,398,https://poll.qu.edu/images/polling/ps/ps11072016.pdf/
+2016,2016,2016924,4,Florida,2016-11-02,2016-11-04,1188,535,535,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/mwbtap4dgs/FL_Prelim_20161106.pdf
+2016,2016,2016925,4,Florida,2016-11-01,2016-11-02,603,295,271,http://opinionsavvy.com/wp-content/uploads/2016/11/OS-FL-General-11.3.16.pdf
+2016,2016,2016902,4,Florida,2016-10-27,2016-11-01,773,379,363,http://i2.cdn.turner.com/cnn/2016/images/11/02/relfl3.pdf
+2016,2016,2016903,4,Florida,2016-10-27,2016-11-01,626,288,282,https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016904,4,Florida,2016-10-31,2016-10-31,1995,978,918,http://www.realclearpolitics.com/docs/2016/Gravis_FL_November_3rd_2016.pdf
+2016,2016,2016926,4,Florida,2016-10-27,2016-10-31,1150,518,564,https://drive.google.com/file/d/0B4lhKxf9pMitbll0NGxMTHFuc0U/view
+2016,2016,2016927,4,Florida,2016-10-25,2016-10-30,718,345,287,https://www.scribd.com/document/329698329/TargetSmart-William-Mary-Florida-Poll-of-Early-and-Likely-Voters
+2016,2016,2016928,4,Florida,2016-10-26,2016-10-27,500,230,225,http://media.wix.com/ugd/3bebb2_136cb97bafca4b36838f08d63a5d1a0c.pdf
+2016,2016,2016905,4,Florida,2016-10-25,2016-10-27,814,342,374,https://www.siena.edu/assets/files/news/FLUpshot1016_Crosstabs_245.pdf
+2016,2016,2016906,4,Florida,2016-10-25,2016-10-26,779,351,343,https://scribd.com/document/329400532/NBC-News-WSJ-Marist-Florida-Poll
+2016,2016,2016929,4,Florida,2016-10-22,2016-10-26,1028,514,380,http://polls.saintleo.edu/wp-content/uploads/2016/10/SLU-Polling-Institute-October-2016-Florida-Candidate-Races-Report.pdf
+2016,2016,2016907,4,Florida,2016-10-20,2016-10-25,836,359,326,http://www.news4jax.com/news/elections/unf-poll-clinton-leads-trump-in-four-way-race
+2016,2016,2016908,4,Florida,2016-10-21,2016-10-24,953,410,429,https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rLiMdBxU.ddw/v0
+2016,2016,2016930,4,Florida,2016-10-20,2016-10-24,1251,600,563,http://www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/cfn/2016/10/25/florida_decides_polls_presidential_race.html
+2016,2016,2016931,4,Florida,2016-10-21,2016-10-23,500,230,215,http://www.fau.edu/newsdesk/articles/trump-closing-to-within-three-points-of-clinton-in-florida.php
+2016,2016,2016932,4,Florida,2016-10-20,2016-10-21,1042,479,448,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/tczhqlhzzs/FL_Final_20161023.pdf
+2016,2016,2016933,4,Florida,2016-10-20,2016-10-20,538,264,242,http://opinionsavvy.com/wp-content/uploads/2016/10/OS-FL-General-10.21.16.pdf
+2016,2016,2016934,4,Florida,2016-10-16,2016-10-19,507,233,213,http://www.flchamber.com/new-florida-chamber-of-commerce-statewide-poll-shows-presidential-race-leaning-toward-hillary-clinton-in-florida/
+2016,2016,2016909,4,Florida,2016-10-10,2016-10-16,660,317,290,https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016910,4,Florida,2016-10-12,2016-10-13,985,453,414,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_FL_104161.pdf
+2016,2016,2016911,4,Florida,2016-10-05,2016-10-12,1532,643,582,https://web.archive.org/web/20161026001524/http://ipsos-na.com/download/pr.aspx?id=16060
+2016,2016,2016935,4,Florida,2016-10-10,2016-10-11,533,251,235,http://opinionsavvy.com/wp-content/uploads/2016/10/OS-FL-General-10.12.16.pdf
+2016,2016,2016936,4,Florida,2016-10-05,2016-10-09,400,196,172,http://www.fau.edu/newsdesk/articles/clinton-opens-six-point-lead-over-trump-in-florida.php
+2016,2016,2016912,4,Florida,2016-10-03,2016-10-05,700,315,294,http://www.nbcnews.com/storyline/2016-presidential-debates/polls-clinton-ahead-florida-pennsylvania-n662076
+2016,2016,2016937,4,Florida,2016-10-02,2016-10-04,600,264,270,http://media.wix.com/ugd/3bebb2_7af2e664bfad4690bfb4a994b0f0836c.pdf
+2016,2016,2016913,4,Florida,2016-09-27,2016-10-04,696,285,264,http://www.unf.edu/coas/porl/2016_Florida_Fall_Statewide_Presidential_Poll.aspx
+2016,2016,2016914,4,Florida,2016-09-27,2016-10-02,545,251,223,https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016938,4,Florida,2016-09-28,2016-09-29,619,291,285,http://opinionsavvy.com/wp-content/uploads/2016/09/OS-FL-General-9.28.16.pdf
+2016,2016,2016939,4,Florida,2016-09-27,2016-09-29,820,377,344,http://www.politico.com/states/f/?id=00000157-79b0-de4f-a777-79fb8c9c0001
+2016,2016,2016915,4,Florida,2016-09-27,2016-09-28,826,372,355,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016940,4,Florida,2016-09-19,2016-09-21,500,220,225,http://www.suffolk.edu/news/67596.php#.V-QCX4iLTIU
+2016,2016,2016941,4,Florida,2016-09-16,2016-09-19,400,184,164,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_FL_092016/
+2016,2016,2016942,4,Florida,2016-09-10,2016-09-16,502,246,221,http://polls.saintleo.edu/new-saint-leo-survey-shows-presidential-race-between-clinton-and-trump-narrowing-in-florida-and-across-u-s/
+2016,2016,2016917,4,Florida,2016-09-10,2016-09-14,867,355,347,https://web.archive.org/web/20160930112839/https://www.siena.edu/assets/files/news/FLUpshot0916_159_Crosstabs.pdf
+2016,2016,2016918,4,Florida,2016-09-07,2016-09-12,788,347,370,http://i2.cdn.turner.com/cnn/2016/images/09/14/floridapoll.pdf
+2016,2016,2016943,4,Florida,2016-09-07,2016-09-09,1193,525,501,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/wwktw0gibz/FL_ForRelease_20160911.pdf
+2016,2016,2016944,4,Florida,2016-09-07,2016-09-08,781,328,359,http://www.realclearpolitics.com/docs/2016/JMC_FL_Sept_2016.pdf
+2016,2016,2016919,4,Florida,2016-09-04,2016-09-06,744,320,327,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_FL_90716.pdf
+2016,2016,2016006,2,Georgia,2016-10-30,2016-11-01,707,325,332,http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626
+2016,2016,2016062,2,Georgia,2016-10-20,2016-10-26,707,325,325,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016048,2,Georgia,2016-09-13,2016-09-21,638,281,319,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016009,2,Georgia,2016-09-06,2016-09-08,625,269,288,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016063,3,Georgia,2016-11-06,2016-11-06,1200,552,588,http://landmarkcommunications.net/landmarkrosetta-stone-releases-final-sunday-poll-of-georgia-voters-for-president-senate/
+2016,2016,2016064,3,Georgia,2016-11-02,2016-11-03,1000,460,480,http://big.assets.huffingtonpost.com/Landmark.Rosetta.Stone.GA.11.03.2016.pdf
+2016,2016,2016065,3,Georgia,2016-11-02,2016-11-03,538,242,264,http://opinionsavvy.com/wp-content/uploads/2016/11/OS-GA-General-11.4.16.pdf
+2016,2016,2016006,3,Georgia,2016-10-30,2016-11-01,707,311,318,http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626
+2016,2016,2016066,3,Georgia,2016-10-25,2016-10-27,593,249,291,http://www.11alive.com/news/politics/elections/exclusive-poll-donald-trump-will-win-georgia/343838078
+2016,2016,2016062,3,Georgia,2016-10-20,2016-10-26,707,304,311,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016067,3,Georgia,2016-10-20,2016-10-20,600,258,282,http://big.assets.huffingtonpost.com/LANDMARKGA.pdf
+2016,2016,2016068,3,Georgia,2016-10-20,2016-10-20,570,262,285,http://opinionsavvy.com/wp-content/uploads/2016/10/OS-GA-General-10.20.16.pdf
+2016,2016,2016069,3,Georgia,2016-10-17,2016-10-20,839,352,369,https://web.archive.org/web/20161021122946/http://politics.blog.ajc.com/2016/10/21/ajc-poll-trump-and-clinton-deadlocked-georgia/
+2016,2016,2016070,3,Georgia,2016-10-15,2016-10-18,627,270,288,https://web.archive.org/web/20161020041518/http://zpolitics.com/exclusive-poll-shows-many-georgians-unphased-by-trumps-lewd-audio/
+2016,2016,2016071,3,Georgia,2016-10-11,2016-10-12,1400,588,672,https://www.georgiapol.com/wp-content/uploads/2016/10/Landmark-Poll-Georgia-Statewide-Oct-11-12-2016.pdf
+2016,2016,2016072,3,Georgia,2016-09-21,2016-09-22,600,258,282,http://media.beta.wsbtv.com/document_dev/2016/09/23/prespoll923_6148208_ver1.0.pdf
+2016,2016,2016073,3,Georgia,2016-09-20,2016-09-22,600,228,264,http://winwithjmc.com/wp-content/uploads/2016/09/Georgia-Executive-Summary-Poll-2.pdf
+2016,2016,2016048,3,Georgia,2016-09-13,2016-09-21,638,255,300,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016074,3,Georgia,2016-09-15,2016-09-18,401,168,180,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_GA_091916/
+2016,2016,2016075,3,Georgia,2016-09-14,2016-09-14,568,239,261,http://opinionsavvy.com/wp-content/uploads/2016/09/OS-GA-General-9.15.16.pdf
+2016,2016,2016009,3,Georgia,2016-09-06,2016-09-08,625,262,275,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016076,4,Georgia,2016-11-06,2016-11-06,1250,562,650,https://drive.google.com/file/d/0B4lhKxf9pMitOXlldjlMQUNRbkU/view
+2016,2016,2016015,4,Georgia,2016-10-29,2016-10-31,650,273,332,http://media.wix.com/ugd/3bebb2_6ee2070379ba4a88bff29b1fa5aae9e0.pdf
+2016,2016,2016030,4,Georgia,2016-09-09,2016-09-13,600,234,270,http://media.wix.com/ugd/3bebb2_b53ca6b673c14cdab9d68832bd7e74cb.pdf
+2016,2016,2016077,4,Idaho,2016-10-23,2016-10-24,750,217,360,http://www.rasmussenreports.com/public_content/politics/elections/election_2016/idaho/questions/questions_election_2016_idaho_president_october_20_22_2016
+2016,2016,2016078,4,Idaho,2016-10-21,2016-10-23,1023,235,532,http://media.wix.com/ugd/3bebb2_06bcdf8a3e564f1ea6549d31229f4d73.pdf
+2016,2016,2016079,4,Idaho,2016-09-28,2016-10-09,608,182,243,http://idahopoliticsweekly.com/politics/1277-poll-clinton-gaining-on-trump-in-idaho
+2016,2016,2016080,2,Illinois,2016-10-26,2016-10-27,600,288,222,https://web.archive.org/web/20161103220208/http://myweb.loras.edu/Loras/PDF/Oct2016LCPIllinoisToplinesCrosstabs.pdf
+2016,2016,2016081,2,Illinois,2016-09-13,2016-09-16,600,282,198,https://web.archive.org/web/20160919235118/http://myweb.loras.edu/Loras/PDF/LorasILSurveySept2016.pdf
+2016,2016,2016082,4,Illinois,2016-10-27,2016-10-30,500,265,205,http://www.realclearpolitics.com/docs/2016/ECP_Final_Press_Release_and_Toplines_VA_IL_ME_11.1_.pdf
+2016,2016,2016080,4,Illinois,2016-10-26,2016-10-27,600,270,204,https://web.archive.org/web/20161103220208/http://myweb.loras.edu/Loras/PDF/Oct2016LCPIllinoisToplinesCrosstabs.pdf
+2016,2016,2016083,4,Illinois,2016-10-16,2016-10-18,1200,612,432,http://big.assets.huffingtonpost.com/Victory.Research.Illinois.10.18.16.pdf
+2016,2016,2016084,4,Illinois,2016-10-13,2016-10-13,664,332,212,http://www.huffingtonpost.com/david-ormsby/poll-clinton-thumping-tru_b_12579014.html
+2016,2016,2016085,4,Illinois,2016-09-27,2016-10-02,865,458,242,http://www.realclearpolitics.com/docs/2016/Simon-SIU_Poll_Sept_2016.pdf
+2016,2016,2016086,4,Illinois,2016-09-21,2016-09-24,1200,588,420,http://big.assets.huffingtonpost.com/VictoryResearch10242016poll.pdf
+2016,2016,2016087,4,Illinois,2016-09-19,2016-09-20,700,315,273,http://media.wix.com/ugd/3bebb2_4b2b9517da414c0fb1c825dfe5416794.pdf
+2016,2016,2016081,4,Illinois,2016-09-13,2016-09-16,600,258,180,https://web.archive.org/web/20160919235118/http://myweb.loras.edu/Loras/PDF/LorasILSurveySept2016.pdf
+2016,2016,2016088,4,Illinois,2016-09-12,2016-09-12,955,487,315,http://rebootillinois.com/2016/09/13/illinoisans-wish-for-new-presidential-nominees-poll-finds/
+2016,2016,2016089,3,Indiana,2016-11-01,2016-11-03,600,222,288,https://web.archive.org/web/20161105132845/http://www.wthr.com/article/exclusive-wthrhpi-poll-trump-up-double-digits-over-clinton-in-indiana
+2016,2016,2016090,3,Indiana,2016-10-30,2016-11-01,399,156,196,http://www.realclearpolitics.com/docs/2016/Gravis_Indiana_November_4th_2016.pdf
+2016,2016,2016091,3,Indiana,2016-10-27,2016-10-30,402,157,201,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_IN_103116/
+2016,2016,2016092,3,Indiana,2016-10-22,2016-10-24,596,226,292,http://gravismarketing.com/polling-and-market-research/current-indiana-polling-2/
+2016,2016,2016093,3,Indiana,2016-10-10,2016-10-16,544,201,234,http://wishtv.com/2016/10/20/hoosier-survey-trump-leads-in-indiana-pence-helps/
+2016,2016,2016094,3,Indiana,2016-10-11,2016-10-13,402,165,181,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_IN_101416/
+2016,2016,2016095,3,Indiana,2016-10-03,2016-10-05,600,228,258,https://web.archive.org/web/20161007192711/http://www.wthr.com/article/exclusive-wthrhpi-poll-clinton-trump-presidential-race-tightens
+2016,2016,2016096,3,Indiana,2016-09-06,2016-09-08,600,216,258,https://web.archive.org/web/20160910134510/http://www.wthr.com/article/pence-sees-trump-as-heir-to-reagan-legacy
+2016,2016,2016097,4,Indiana,2016-10-07,2016-10-10,1313,473,578,https://web.archive.org/web/20161019061048/http://luc.id/wp-content/uploads/2016/10/Indiana-Results.pdf?link_id=20&can_id=3988fa989da190d30e93d8a03b9a4393&source=email-morning-digest-all-of-a-sudden-catherine-cortez-masto-jumps-into-the-lead-in-nevada&email_referrer=morning-digest-all-of-a-sudden-
+2016,2016,2016098,2,Iowa,2016-11-01,2016-11-02,1076,473,495,https://web.archive.org/web/20161104203748/http://www.rabaresearch.com/documents/RABA-Simpson-College-Iowa-November-2016.pdf
+2016,2016,2016062,2,Iowa,2016-10-20,2016-10-26,791,364,372,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016099,2,Iowa,2016-09-20,2016-09-22,491,206,206,http://www.loras.edu/news/clinton-trump-tied-iowa-grassley-opens-strong-lead-loras-college-poll-finds/
+2016,2016,2016048,2,Iowa,2016-09-13,2016-09-21,612,269,306,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016100,2,Iowa,2016-09-06,2016-09-08,1054,443,453,http://www.desmoinesregister.com/story/news/politics/2016/09/12/new-poll-trump-clinton-neck-and-neck-iowa/90235602/
+2016,2016,2016101,4,Iowa,2016-11-01,2016-11-04,800,312,368,http://www.desmoinesregister.com/story/news/politics/iowa-poll/2016/11/05/iowa-poll-trump-opens-7-point-lead-over-clinton/93347134/
+2016,2016,2016102,4,Iowa,2016-11-01,2016-11-03,700,287,308,http://media.wix.com/ugd/3bebb2_f41eb67b0e694f8ca80b020facc8d937.pdf
+2016,2016,2016103,4,Iowa,2016-11-01,2016-11-03,500,220,215,https://web.archive.org/web/20161105224404/http://www.loras.edu/wp-content/uploads/2016/11/LCP-NOV-IA-2016.pdf
+2016,2016,2016062,4,Iowa,2016-10-20,2016-10-26,791,348,348,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016104,4,Iowa,2016-10-03,2016-10-06,800,312,344,http://www.desmoinesregister.com/story/news/politics/iowa-poll/2016/10/08/iowa-poll-donald-trump-leads-hillary-clinton-by-4-points/91673644/
+2016,2016,2016099,4,Iowa,2016-09-20,2016-09-22,491,187,187,http://www.loras.edu/news/clinton-trump-tied-iowa-grassley-opens-strong-lead-loras-college-poll-finds/
+2016,2016,2016048,4,Iowa,2016-09-13,2016-09-21,612,226,269,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016105,4,Iowa,2016-09-12,2016-09-14,404,149,182,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_IA_091516/
+2016,2016,2016100,4,Iowa,2016-09-06,2016-09-08,1054,411,422,http://www.desmoinesregister.com/story/news/politics/2016/09/12/new-poll-trump-clinton-neck-and-neck-iowa/90235602/
+2016,2016,2016098,5,Iowa,2016-11-01,2016-11-02,1076,441,473,https://web.archive.org/web/20161104203748/http://www.rabaresearch.com/documents/RABA-Simpson-College-Iowa-November-2016.pdf
+2016,2016,2016106,2,Kansas,2016-11-01,2016-11-03,313,106,182,http://www.kansas.com/news/local/article112533742.html
+2016,2016,2016107,4,Kansas,2016-10-26,2016-10-30,624,237,306,http://ksn.com/2016/11/01/ksn-news-poll-shows-trump-leading-in-kansas-a-week-away-from-election/
+2016,2016,2016108,4,Kansas,2016-10-11,2016-10-15,581,209,273,http://ksn.com/2016/10/18/ksn-news-poll-continues-to-show-strong-support-for-trump-in-kansas/
+2016,2016,2016109,4,Kansas,2016-09-06,2016-09-11,595,214,286,https://web.archive.org/web/20160914070337/http://ksn.com/2016/09/13/ksn-news-poll-shows-donald-trump-leading-hillary-clinton-in-kansas/
+2016,2016,2016110,2,Kentucky,2016-10-26,2016-10-28,811,260,454,https://web.archive.org/web/20161101101855/http://www.runswitchpr.com/oct-2016-survey/
+2016,2016,2016111,5,Kentucky,2016-10-25,2016-10-30,602,223,325,https://projects.fivethirtyeight.com/polls/20161101_KY.pdf
+2016,2016,2016112,3,Louisiana,2016-10-19,2016-10-21,500,175,250,http://big.assets.huffingtonpost.com/SMOR.Poll.LA.Oct.2016.pdf
+2016,2016,2016113,3,Louisiana,2016-09-15,2016-09-17,500,165,245,http://www.nola.com/politics/index.ssf/2016/09/2016_louisiana_senate_race_wan.html
+2016,2016,2016114,4,Louisiana,2016-10-15,2016-10-21,603,211,295,https://web.archive.org/web/20161029003231/http://www.uno.edu/cola/political-science/documents/2016-Louisiana-Survey-Report.pdf
+2016,2016,2016115,4,Louisiana,2016-10-17,2016-10-19,625,213,338,https://web.archive.org/web/20161022102847/http://www.ksla.com/story/33437911/exclusive-poll-trump-holds-strong-lead-over-clinton-in-louisiana
+2016,2016,2016116,4,Louisiana,2016-10-11,2016-10-15,800,304,360,http://winwithjmc.com/wp-content/uploads/2016/10/Fleming-Executive-Summary-Poll-3-RELEASE.pdf
+2016,2016,2016117,4,Louisiana,2016-09-22,2016-09-24,905,317,407,http://winwithjmc.com/wp-content/uploads/2016/09/Fleming-Executive-Summary-Poll-2-RELEASE.pdf
+2016,2016,2016118,2,Maine,2016-11-02,2016-11-03,855,428,351,http://mprc.me/research/1116_presidential.pdf
+2016,2016,2016119,2,Maine,2016-10-24,2016-10-26,812,382,325,http://mprc.me/research/1016_presidential3.pdf
+2016,2016,2016120,2,Maine,2016-10-14,2016-10-15,890,436,347,http://mprc.me/research/1016_presidential2.pdf
+2016,2016,2016121,2,Maine,2016-10-07,2016-10-09,892,437,357,http://mprc.me/research/1016_presidential1.pdf
+2016,2016,2016122,2,Maine,2016-09-15,2016-09-17,835,376,334,http://mprc.me/research/0916_presidential.pdf
+2016,2016,2016118,4,Maine,2016-11-02,2016-11-03,855,385,333,http://mprc.me/research/1116_presidential.pdf
+2016,2016,2016082,4,Maine,2016-10-28,2016-10-30,750,345,315,http://www.realclearpolitics.com/docs/2016/ECP_Final_Press_Release_and_Toplines_VA_IL_ME_11.1_.pdf
+2016,2016,2016119,4,Maine,2016-10-24,2016-10-26,812,341,300,http://mprc.me/research/1016_presidential3.pdf
+2016,2016,2016123,4,Maine,2016-10-20,2016-10-25,670,322,248,http://www.pressherald.com/2016/10/30/clinton-extends-her-lead-in-latest-maine-sunday-telegram-poll-of-voters/
+2016,2016,2016120,4,Maine,2016-10-14,2016-10-15,890,374,320,http://mprc.me/research/1016_presidential2.pdf
+2016,2016,2016121,4,Maine,2016-10-07,2016-10-09,892,392,321,http://mprc.me/research/1016_presidential1.pdf
+2016,2016,2016124,4,Maine,2016-09-15,2016-09-20,513,205,185,http://www.pressherald.com/2016/09/25/maine-voters-appear-poised-to-render-historic-electoral-college-vote-split-in-2016-election/
+2016,2016,2016122,4,Maine,2016-09-15,2016-09-17,835,309,309,http://mprc.me/research/0916_presidential.pdf
+2016,2016,2016125,4,Maine,2016-09-04,2016-09-10,779,327,304,https://www.bostonglobe.com/news/politics/2016/09/13/new-poll-shows-competitive-race-maine/YNsB57jVpHmEJcJsFZRXMP/story.html?event=event25
+2016,2016,2016060,4,Maine,2016-09-02,2016-09-05,800,352,280,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016126,4,Maryland,2016-09-27,2016-09-30,706,445,191,https://www.washingtonpost.com/local/md-politics/larry-hogans-approval-soars-buoyed-by-his-disavowal-of-donald-trump/2016/10/05/3e84b330-88de-11e6-b24f-a7f89eb68887_story.html
+2016,2016,2016127,4,Maryland,2016-09-17,2016-09-20,514,298,128,https://web.archive.org/web/20160923045441/http://www.goucher.edu/Documents/Poli_Sci/hughes/Fall%202016%20Goucher%20Poll%20Release%20Final.pdf
+2016,2016,2016128,2,Massachusetts,2016-09-24,2016-10-03,403,262,121,http://big.assets.huffingtonpost.com/WNEU-MA-GE-10.03.2016.pdf
+2016,2016,2016129,2,Massachusetts,2016-09-07,2016-09-10,506,304,157,http://d279m997dpfwgl.cloudfront.net/wp/2016/09/Crosstabs-2016-09-WBUR-MA-Full-Survey.pdf
+2016,2016,2016130,4,Massachusetts,2016-10-23,2016-11-02,417,234,108,https://web.archive.org/web/20161105160924/http://www1.wne.edu/news/2016/11/PollingTables_FINAL_11_04_16.pdf
+2016,2016,2016131,4,Massachusetts,2016-10-24,2016-10-26,500,285,125,http://www.suffolk.edu/news/67840.php#.WBKUzCRAqis
+2016,2016,2016132,4,Massachusetts,2016-10-13,2016-10-16,502,271,141,http://www.wbur.org/politicker/2016/10/18/poll-clinton-trump-massachusetts
+2016,2016,2016128,4,Massachusetts,2016-09-24,2016-10-03,403,234,105,http://big.assets.huffingtonpost.com/WNEU-MA-GE-10.03.2016.pdf
+2016,2016,2016133,4,Massachusetts,2016-09-15,2016-09-20,700,329,238,https://cbsboston.files.wordpress.com/2016/09/toplines_ma_sept.pdf
+2016,2016,2016129,4,Massachusetts,2016-09-07,2016-09-10,500,270,140,http://d279m997dpfwgl.cloudfront.net/wp/2016/09/Crosstabs-2016-09-WBUR-MA-Full-Survey.pdf
+2016,2016,2016060,4,Massachusetts,2016-09-03,2016-09-05,500,250,165,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016043,2,Michigan,2016-11-03,2016-11-04,957,478,421,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf
+2016,2016,2016134,2,Michigan,2016-11-03,2016-11-03,1007,504,453,https://web.archive.org/web/20161107095055/http://www.fox2detroit.com/news/local-news/215858932-story
+2016,2016,2016135,2,Michigan,2016-11-02,2016-11-02,1150,586,529,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_11-3-16_FINAL.pdf
+2016,2016,2016136,2,Michigan,2016-11-01,2016-11-01,887,435,390,https://web.archive.org/web/20161103164855/http://www.fox2detroit.com/news/local-news/215151598-story
+2016,2016,2016137,2,Michigan,2016-10-31,2016-10-31,737,376,332,https://web.archive.org/web/20161103133640/http://www.fox2detroit.com/news/local-news/214932733-story
+2016,2016,2016138,2,Michigan,2016-10-30,2016-10-30,953,486,400,https://web.archive.org/web/20161101122552/http://www.fox2detroit.com/news/local-news/214738676-story
+2016,2016,2016139,2,Michigan,2016-09-01,2016-10-30,746,388,239,http://msutoday.msu.edu/_/pdf/assets/2016/state-of-state-survey.pdf
+2016,2016,2016140,2,Michigan,2016-10-25,2016-10-25,1030,515,453,https://web.archive.org/web/20161027060231/http://www.fox2detroit.com/news/local-news/213813298-story
+2016,2016,2016141,2,Michigan,2016-10-22,2016-10-25,600,270,222,http://www.freep.com/story/news/politics/2016/10/27/donald-trump-narrows-hillary-clintons-lead-7-michigan/92786458/
+2016,2016,2016142,2,Michigan,2016-10-23,2016-10-23,1241,633,534,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-24-16.pdf
+2016,2016,2016143,2,Michigan,2016-10-16,2016-10-19,600,276,228,http://www.realclearpolitics.com/docs/2016/MRG_MI_Poll_OCT_16_Pres_Gen_FINAL1.pdf
+2016,2016,2016144,2,Michigan,2016-10-18,2016-10-18,1102,584,452,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-19-16_Final.pdf
+2016,2016,2016145,2,Michigan,2016-10-06,2016-10-17,1370,548,493,https://web.archive.org/web/20161104020057/http://www.ipsos-na.com/download/pr.aspx?id=16071
+2016,2016,2016146,2,Michigan,2016-10-10,2016-10-11,600,282,198,http://www.detroitnews.com/story/news/politics/2016/10/12/presidential-poll-michigan/91964392/
+2016,2016,2016147,2,Michigan,2016-09-27,2016-09-27,1956,958,861,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_9-28-16.pdf
+2016,2016,2016148,2,Michigan,2016-09-10,2016-09-13,600,252,228,http://www.freep.com/story/news/politics/2016/09/15/donald-trump-hillary-clinton-michigan-poll/90381296/
+2016,2016,2016149,2,Michigan,2016-09-06,2016-09-07,940,442,395,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_9-9-16.pdf
+2016,2016,2016150,3,Michigan,2016-09-18,2016-09-24,600,276,246,http://gcsionline.com/wp-content/uploads/2016/09/Polling_President_092716.pdf
+2016,2016,2016151,4,Michigan,2016-11-06,2016-11-06,1200,564,588,https://drive.google.com/file/d/0B4lhKxf9pMitN1JxcDRvQkdudkE/view
+2016,2016,2016043,4,Michigan,2016-11-03,2016-11-04,957,440,392,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf
+2016,2016,2016134,4,Michigan,2016-11-03,2016-11-03,1007,463,413,https://web.archive.org/web/20161107095055/http://www.fox2detroit.com/news/local-news/215858932-story
+2016,2016,2016152,4,Michigan,2016-11-01,2016-11-03,600,252,228,http://www.freep.com/story/news/politics/2016/11/04/free-press-poll-donald-trump-gains-hillary-clinton-race-michigan-tightens/93287658/
+2016,2016,2016135,4,Michigan,2016-11-02,2016-11-02,1150,540,506,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_11-3-16_FINAL.pdf
+2016,2016,2016136,4,Michigan,2016-11-01,2016-11-01,887,417,390,https://web.archive.org/web/20161103164855/http://www.fox2detroit.com/news/local-news/215151598-story
+2016,2016,2016137,4,Michigan,2016-10-31,2016-10-31,737,368,317,https://web.archive.org/web/20161103133640/http://www.fox2detroit.com/news/local-news/214932733-story
+2016,2016,2016138,4,Michigan,2016-10-30,2016-10-30,953,448,391,https://web.archive.org/web/20161101122552/http://www.fox2detroit.com/news/local-news/214738676-story
+2016,2016,2016139,4,Michigan,2016-09-01,2016-10-30,746,351,209,http://msutoday.msu.edu/_/pdf/assets/2016/state-of-state-survey.pdf
+2016,2016,2016153,4,Michigan,2016-10-25,2016-10-26,500,250,215,http://media.wix.com/ugd/3bebb2_16b97664735d4325b018b7b608477434.pdf
+2016,2016,2016140,4,Michigan,2016-10-25,2016-10-25,1030,494,433,https://web.archive.org/web/20161027060231/http://www.fox2detroit.com/news/local-news/213813298-story
+2016,2016,2016141,4,Michigan,2016-10-22,2016-10-25,600,246,204,http://www.freep.com/story/news/politics/2016/10/27/donald-trump-narrows-hillary-clintons-lead-7-michigan/92786458/
+2016,2016,2016142,4,Michigan,2016-10-23,2016-10-23,1241,608,509,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-24-16.pdf
+2016,2016,2016143,4,Michigan,2016-10-16,2016-10-19,600,246,216,http://www.realclearpolitics.com/docs/2016/MRG_MI_Poll_OCT_16_Pres_Gen_FINAL1.pdf
+2016,2016,2016144,4,Michigan,2016-10-18,2016-10-18,1102,562,419,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-19-16_Final.pdf
+2016,2016,2016145,4,Michigan,2016-10-06,2016-10-17,1370,548,493,https://web.archive.org/web/20161104020057/http://www.ipsos-na.com/download/pr.aspx?id=16071
+2016,2016,2016154,4,Michigan,2016-10-11,2016-10-11,1429,672,529,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_10-12-16_B.pdf
+2016,2016,2016146,4,Michigan,2016-10-10,2016-10-11,600,252,186,http://www.detroitnews.com/story/news/politics/2016/10/12/presidential-poll-michigan/91964392/
+2016,2016,2016155,4,Michigan,2016-10-01,2016-10-03,600,258,192,http://www.freep.com/story/news/politics/2016/10/06/hillary-clinton-donald-trump-michigan/91611112/
+2016,2016,2016156,4,Michigan,2016-09-27,2016-09-28,600,252,210,http://www.detroitnews.com/story/news/politics/2016/09/29/clinton-leads-michigan-poll-trump/91304744/
+2016,2016,2016147,4,Michigan,2016-09-27,2016-09-27,1956,900,802,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_9-28-16.pdf
+2016,2016,2016148,4,Michigan,2016-09-10,2016-09-13,600,228,210,http://www.freep.com/story/news/politics/2016/09/15/donald-trump-hillary-clinton-michigan-poll/90381296/
+2016,2016,2016149,4,Michigan,2016-09-06,2016-09-07,940,423,367,http://www.realclearpolitics.com/docs/2016/FOX_2_Detroit-Mitchell_Poll_of_MI_Press_Clinton_v_Trump_9-9-16.pdf
+2016,2016,2016157,2,Minnesota,2016-10-22,2016-10-26,656,348,276,http://www.surveyusa.com/client/PollReport.aspx?g=9749ea8d-a14e-4db8-bd3f-13cfb18c9d02
+2016,2016,2016158,2,Minnesota,2016-09-16,2016-09-20,625,306,269,http://www.surveyusa.com/client/PollReport.aspx?g=7e606dd3-84c1-4460-9a0b-c1cb0d8fc8a4
+2016,2016,2016157,4,Minnesota,2016-10-22,2016-10-26,656,321,256,http://www.surveyusa.com/client/PollReport.aspx?g=9749ea8d-a14e-4db8-bd3f-13cfb18c9d02
+2016,2016,2016158,4,Minnesota,2016-09-16,2016-09-20,625,288,244,http://www.surveyusa.com/client/PollReport.aspx?g=7e606dd3-84c1-4460-9a0b-c1cb0d8fc8a4
+2016,2016,2016159,4,Minnesota,2016-09-12,2016-09-14,625,275,238,http://www.startribune.com/minnesota-poll-clinton-keeps-lead-but-trump-gains/393840031/
+2016,2016,2016160,5,Minnesota,2016-10-20,2016-10-22,625,294,244,http://www.startribune.com/in-minnesota-poll-clinton-widens-lead-over-trump/398272671/
+2016,2016,2016161,2,Missouri,2016-10-31,2016-11-01,1083,444,563,https://cdn.americanprogress.org/content/uploads/sites/2/2016/11/03143903/NationalMemo112-Final.pdf
+2016,2016,2016162,2,Missouri,2016-10-27,2016-10-28,1698,662,900,http://themissouritimes.com/35134/blunt-opens-lead-kander-new-poll/
+2016,2016,2016163,3,Missouri,2016-09-26,2016-09-27,1279,499,627,http://themissouritimes.com/34112/poll-koster-lead-increases-trump-10-points/
+2016,2016,2016164,4,Missouri,2016-11-04,2016-11-05,750,308,352,http://media.wix.com/ugd/3bebb2_4c95f9bb0b874960a67b0cb7c019efd8.pdf
+2016,2016,2016165,4,Missouri,2016-11-01,2016-11-02,871,322,436,http://images.campaignpartner.net/images/15290/MissouriMemo11216.pdf
+2016,2016,2016166,4,Missouri,2016-10-31,2016-11-01,1722,672,878,http://themissouritimes.com/35272/less-one-week-new-poll-shows-greitens-first-time/
+2016,2016,2016167,4,Missouri,2016-10-27,2016-11-01,508,193,239,http://www.smartmoslb.org/Missouri%20Rail%20Survey%20November%202016%20(002).pdf
+2016,2016,2016015,4,Missouri,2016-10-28,2016-10-31,650,240,338,http://media.wix.com/ugd/3bebb2_6ee2070379ba4a88bff29b1fa5aae9e0.pdf
+2016,2016,2016168,4,Missouri,2016-10-28,2016-10-31,405,154,211,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_MO_110116/
+2016,2016,2016169,4,Missouri,2016-10-24,2016-10-26,625,262,294,http://www.stltoday.com/news/local/govt-and-politics/trump-leads-clinton-blunt-kander-a-virtual-tie-in-missouri/article_a4a48a47-485f-5e9a-b6f6-1dba7c7deb48.html
+2016,2016,2016170,4,Missouri,2016-10-23,2016-10-25,2559,998,1280,http://themissouritimes.com/35001/greitens-trims-kosters-lead-trump-surges-missouri/
+2016,2016,2016171,4,Missouri,2016-10-17,2016-10-19,600,234,282,http://media.wix.com/ugd/3bebb2_98fe8b3559f64960a573ecad7dc22ec9.pdf
+2016,2016,2016172,4,Missouri,2016-10-09,2016-10-11,2171,912,1020,http://themissouritimes.com/34543/poll-koster-trump-lead-missouri-lt-gov-close-call/
+2016,2016,2016173,4,Missouri,2016-10-09,2016-10-11,406,166,187,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_MO_101216/
+2016,2016,2016174,4,Missouri,2016-09-21,2016-09-23,1087,402,500,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/hhpp131oxz/MO_ForRelease_20160925.pdf
+2016,2016,2016030,4,Missouri,2016-09-09,2016-09-13,600,204,282,http://media.wix.com/ugd/3bebb2_b53ca6b673c14cdab9d68832bd7e74cb.pdf
+2016,2016,2016175,4,Missouri,2016-09-01,2016-09-02,1275,484,599,http://themissouritimes.com/33365/poll-shows-republicans-koster-well/
+2016,2016,2016176,3,Montana,2016-10-10,2016-10-12,1003,361,461,https://missoulian.com/news/government-and-politics/trump-leads-in-montana-but-voters-aren-t-that-fond/article_09de91e3-c013-5e70-b82e-252fff748260.html
+2016,2016,2016177,4,Montana,2016-10-03,2016-10-10,590,159,254,http://www.msubillings.edu/urelations/releases/newsphotos2016/oct/Montana_Poll_2016.pdf
+2016,2016,2016178,4,Nebraska,2016-09-25,2016-09-27,700,203,392,http://media.wix.com/ugd/3bebb2_c4ce441cb55942e99e386bf56daef127.pdf
+2016,2016,2016161,2,Nevada,2016-10-31,2016-11-01,688,330,310,https://cdn.americanprogress.org/content/uploads/sites/2/2016/11/03143903/NationalMemo112-Final.pdf
+2016,2016,2016179,2,Nevada,2016-10-27,2016-11-01,790,356,403,http://i2.cdn.turner.com/cnn/2016/images/11/02/relnv3.pdf
+2016,2016,2016180,2,Nevada,2016-10-20,2016-10-24,707,318,318,http://www.nbcnews.com/politics/2016-election/polls-clinton-holds-9-point-lead-new-hampshire-tied-nevada-n673361
+2016,2016,2016181,2,Nevada,2016-10-10,2016-10-15,698,349,321,http://i2.cdn.turner.com/cnn/2016/images/10/17/link.2..pdf
+2016,2016,2016182,2,Nevada,2016-10-10,2016-10-11,1010,434,434,http://endcitizensunited.org/wp-content/uploads/2016/10/ECU-NV-poll3-Oct12.pdf
+2016,2016,2016183,2,Nevada,2016-10-10,2016-10-11,986,463,424,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NV_101216.pdf
+2016,2016,2016184,2,Nevada,2016-09-18,2016-09-20,704,296,324,http://www.foxnews.com/politics/interactive/2016/09/21/fox-news-poll-nevada/
+2016,2016,2016185,2,Nevada,2016-09-10,2016-09-19,400,196,184,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016009,2,Nevada,2016-09-06,2016-09-08,627,282,276,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016186,2,Nevada,2016-09-06,2016-09-07,815,367,342,https://www.ktnv.com/news/ralston/white-house-senate-races-very-close-in-nevada
+2016,2016,2016187,3,Nevada,2016-11-01,2016-11-02,1793,807,825,http://big.assets.huffingtonpost.com/ABC_NV_STATEWIDE110416.pdf
+2016,2016,2016188,3,Nevada,2016-10-28,2016-11-01,600,270,270,http://www.lasvegasnow.com/news/nvelection-8-news-now-poll-finds-clinton-trump-races-tied
+2016,2016,2016179,3,Nevada,2016-10-27,2016-11-01,790,340,387,http://i2.cdn.turner.com/cnn/2016/images/11/02/relnv3.pdf
+2016,2016,2016189,3,Nevada,2016-10-23,2016-10-30,787,346,378,http://www.realclearpolitics.com/docs/2016/Remington_Research_Nevada_October_31_2016.pdf
+2016,2016,2016180,3,Nevada,2016-10-20,2016-10-24,707,304,304,http://www.nbcnews.com/politics/2016-election/polls-clinton-holds-9-point-lead-new-hampshire-tied-nevada-n673361
+2016,2016,2016190,3,Nevada,2016-10-20,2016-10-23,800,384,328,https://archive.today/20161031230250/http://www.reviewjournal.com/politics/election-2016/rj-poll-shows-clinton-pulling-away-trump-nevada
+2016,2016,2016191,3,Nevada,2016-10-20,2016-10-22,1332,586,626,http://big.assets.huffingtonpost.com/NVSTATEWIDE.pdf
+2016,2016,2016192,3,Nevada,2016-10-20,2016-10-22,826,380,347,https://www.ktnv.com/news/political/ktnvrasmussen-poll-clinton-pulls-ahead-of-trump-in-nevada-as-early-voting-starts
+2016,2016,2016193,3,Nevada,2016-10-14,2016-10-17,413,194,165,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NV_101816/
+2016,2016,2016181,3,Nevada,2016-10-10,2016-10-15,698,321,307,http://i2.cdn.turner.com/cnn/2016/images/10/17/link.2..pdf
+2016,2016,2016194,3,Nevada,2016-10-12,2016-10-14,996,458,398,https://www.scribd.com/document/327758568/CBS-News-Battleground-Tracker-Nevada-Oct-16#from_embed
+2016,2016,2016195,3,Nevada,2016-10-10,2016-10-13,600,258,246,http://www.lasvegasnow.com/news/nvdebate-tight-race-between-clinton-and-trump
+2016,2016,2016196,3,Nevada,2016-10-11,2016-10-12,600,270,234,https://web.archive.org/web/20161017022725/http://www.ktnv.com/news/ralston/heck-hanging-onto-lead-trump-falling-behind-in-new-gop-poll
+2016,2016,2016197,3,Nevada,2016-09-27,2016-10-02,700,308,287,https://web.archive.org/web/20161005122715/http://www.ktnv.com/news/ralston/new-poll-nevada-races-for-president-senate-remain-close
+2016,2016,2016198,3,Nevada,2016-09-27,2016-09-29,800,360,352,http://www.reviewjournal.com/politics/election-2016/rj-s-nevada-poll-shows-clinton-and-trump-are-statistical-tie
+2016,2016,2016184,3,Nevada,2016-09-18,2016-09-20,704,282,303,http://www.foxnews.com/politics/interactive/2016/09/21/fox-news-poll-nevada/
+2016,2016,2016199,3,Nevada,2016-09-16,2016-09-18,800,312,336,http://www.rasmussenreports.com/public_content/politics/elections/election_2016/nevada/questions/questions_election_2016_nevada_president_september_16_18_2016
+2016,2016,2016026,3,Nevada,2016-09-12,2016-09-14,398,175,187,https://web.archive.org/web/20160930112543/http://www.insightswest.com/news/trump-leads-in-arizona-and-nevada-clinton-in-california-and-washington/
+2016,2016,2016200,3,Nevada,2016-09-11,2016-09-13,406,171,179,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NV_091416/
+2016,2016,2016012,4,Nevada,2016-11-04,2016-11-06,387,178,178,https://web.archive.org/web/20161108135928/http://www.insightswest.com/news/clinton-is-ahead-of-trump-as-u-s-presidential-election-approaches/
+2016,2016,2016201,4,Nevada,2016-11-03,2016-11-06,1158,521,498,https://www.scribd.com/document/330331470/Gravis-Marketing-Final-Nevada-Poll#from_embed
+2016,2016,2016164,4,Nevada,2016-11-04,2016-11-05,600,282,276,http://media.wix.com/ugd/3bebb2_4c95f9bb0b874960a67b0cb7c019efd8.pdf
+2016,2016,2016202,4,Nevada,2016-11-01,2016-11-04,1100,495,550,https://drive.google.com/file/d/0B4lhKxf9pMitYTV0T1hDMnpDVkU/view
+2016,2016,2016203,4,Nevada,2016-10-26,2016-10-27,550,242,231,http://media.wix.com/ugd/3bebb2_136cb97bafca4b36838f08d63a5d1a0c.pdf
+2016,2016,2016024,4,Nevada,2016-10-02,2016-10-04,700,301,301,http://media.wix.com/ugd/3bebb2_7af2e664bfad4690bfb4a994b0f0836c.pdf
+2016,2016,2016185,4,Nevada,2016-09-10,2016-09-19,400,168,168,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016009,4,Nevada,2016-09-06,2016-09-08,627,257,263,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016204,5,Nevada,2016-09-27,2016-09-29,500,220,190,https://web.archive.org/web/20161001151219/http://www.suffolk.edu/news/67667.php#.V-6afiTlYdI
+2016,2016,2016205,2,New Hampshire,2016-10-28,2016-11-02,695,306,313,https://www.uml.edu/docs/TOPLINE-NH-GENERAL-20161103_tcm18-264691.pdf
+2016,2016,2016161,2,New Hampshire,2016-10-31,2016-11-01,781,375,336,https://cdn.americanprogress.org/content/uploads/sites/2/2016/11/03143903/NationalMemo112-Final.pdf
+2016,2016,2016206,2,New Hampshire,2016-10-29,2016-11-01,500,210,220,http://d279m997dpfwgl.cloudfront.net/wp/2016/11/Topline-2016-10-WBUR-NH-General-6.pdf
+2016,2016,2016801,2,New Hampshire,2016-10-26,2016-10-28,408,188,192,NA
+2016,2016,2016180,2,New Hampshire,2016-10-20,2016-10-24,768,361,300,http://www.nbcnews.com/politics/2016-election/polls-clinton-holds-9-point-lead-new-hampshire-tied-nevada-n673361
+2016,2016,2016207,2,New Hampshire,2016-10-10,2016-10-12,501,230,205,http://big.assets.huffingtonpost.com/Topline201610WBURNHGeneral5.pdf
+2016,2016,2016208,2,New Hampshire,2016-10-07,2016-10-09,600,288,222,https://twitter.com/jdistaso/status/786336536300232704
+2016,2016,2016209,2,New Hampshire,2016-09-27,2016-09-29,502,236,191,http://d279m997dpfwgl.cloudfront.net/wp/2016/09/Topline-2016-09-WBUR-NH-General-4-Pres-5-AM.pdf
+2016,2016,2016210,2,New Hampshire,2016-09-25,2016-09-27,600,276,240,http://endcitizensunited.org/wp-content/uploads/2016/09/ECU-NH-Memo-Sep29.pdf
+2016,2016,2016009,2,New Hampshire,2016-09-06,2016-09-08,737,310,302,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016211,4,New Hampshire,2016-11-03,2016-11-06,701,343,266,http://www.wmur.com/article/new-unh-poll-democrats-clinton-hassan-van-ostern-lead-republican-foes/8252941
+2016,2016,2016164,4,New Hampshire,2016-11-04,2016-11-05,1000,450,440,http://media.wix.com/ugd/3bebb2_4c95f9bb0b874960a67b0cb7c019efd8.pdf
+2016,2016,2016212,4,New Hampshire,2016-10-31,2016-11-02,600,258,288,https://web.archive.org/web/20161104074839/http://elections.huffingtonpost.com/pollster/polls/arg-26663
+2016,2016,2016213,4,New Hampshire,2016-10-31,2016-11-02,500,210,210,https://web.archive.org/web/20161104010635/http://www.suffolk.edu/news/67865.php#.WBt9H8ex-Uk
+2016,2016,2016205,4,New Hampshire,2016-10-28,2016-11-02,695,306,306,https://www.uml.edu/docs/TOPLINE-NH-GENERAL-20161103_tcm18-264691.pdf
+2016,2016,2016206,4,New Hampshire,2016-10-29,2016-11-01,500,195,200,http://d279m997dpfwgl.cloudfront.net/wp/2016/11/Topline-2016-10-WBUR-NH-General-6.pdf
+2016,2016,2016214,4,New Hampshire,2016-10-26,2016-10-30,641,295,250,https://web.archive.org/web/20161101101850/https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2016_fall_nhelec103116.pdf
+2016,2016,2016153,4,New Hampshire,2016-10-23,2016-10-25,600,276,258,http://media.wix.com/ugd/3bebb2_16b97664735d4325b018b7b608477434.pdf
+2016,2016,2016215,4,New Hampshire,2016-10-22,2016-10-25,401,184,168,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NH_102616/
+2016,2016,2016180,4,New Hampshire,2016-10-20,2016-10-24,768,346,276,http://www.nbcnews.com/politics/2016-election/polls-clinton-holds-9-point-lead-new-hampshire-tied-nevada-n673361
+2016,2016,2016216,4,New Hampshire,2016-10-17,2016-10-21,772,332,293,https://web.archive.org/web/20161027195136/https://cbsboston.files.wordpress.com/2016/10/toplines_presidential_horserace.pdf
+2016,2016,2016171,4,New Hampshire,2016-10-17,2016-10-19,900,396,324,http://media.wix.com/ugd/3bebb2_98fe8b3559f64960a573ecad7dc22ec9.pdf
+2016,2016,2016217,4,New Hampshire,2016-10-11,2016-10-17,770,377,262,https://web.archive.org/web/20161021001346/https://cola.unh.edu/sites/cola.unh.edu/files/research_publications/gsp2016_fall_preselec101916.pdf
+2016,2016,2016207,4,New Hampshire,2016-10-10,2016-10-12,501,205,190,http://big.assets.huffingtonpost.com/Topline201610WBURNHGeneral5.pdf
+2016,2016,2016218,4,New Hampshire,2016-10-07,2016-10-11,517,233,202,https://www.uml.edu/docs/TOPLINE%20-%20UMassLowell-7NEWS%20NH%20GENERAL%2020161013_tcm18-262711.pdf
+2016,2016,2016219,4,New Hampshire,2016-10-03,2016-10-05,500,220,210,https://www.bostonglobe.com/metro/2016/10/06/clinton-lead-drops-points-new-poll-shows/tSRVOKza1tqirjc2POFR5O/story.html
+2016,2016,2016209,4,New Hampshire,2016-09-27,2016-09-29,502,211,176,http://d279m997dpfwgl.cloudfront.net/wp/2016/09/Topline-2016-09-WBUR-NH-General-4-Pres-5-AM.pdf
+2016,2016,2016210,4,New Hampshire,2016-09-25,2016-09-27,600,258,222,http://endcitizensunited.org/wp-content/uploads/2016/09/ECU-NH-Memo-Sep29.pdf
+2016,2016,2016220,4,New Hampshire,2016-09-20,2016-09-25,522,240,219,http://elections.huffingtonpost.com/pollster/polls/arg-25745
+2016,2016,2016221,4,New Hampshire,2016-09-17,2016-09-20,400,188,152,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NH_092116/
+2016,2016,2016009,4,New Hampshire,2016-09-06,2016-09-08,737,287,273,http://www.nbcnews.com/politics/2016-election/clinton-trump-deadlocked-battleground-states-polls-n646216
+2016,2016,2016060,4,New Hampshire,2016-09-03,2016-09-05,600,252,222,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016222,5,New Hampshire,2016-10-26,2016-10-28,408,175,184,http://www.insidesources.com/wp-content/uploads/2016/10/InsideSources-NH-Journal-Poll-10.31.16.pdf
+2016,2016,2016223,2,New Jersey,2016-10-12,2016-10-16,579,295,232,http://view2.fdu.edu/publicmind/2016/161018/
+2016,2016,2016224,2,New Jersey,2016-09-22,2016-09-29,638,293,255,http://intraweb.stockton.edu/eyos/hughescenter/content/docs/Polling/2016%20Polling/NJ16%20poll%201%20WFs%20(2)(1).pdf
+2016,2016,2016225,4,New Jersey,2016-10-27,2016-11-02,678,346,271,https://observer.com/2016/11/stockton-new-jersey-poll-clinton-51-trump-40/
+2016,2016,2016223,4,New Jersey,2016-10-12,2016-10-16,293,144,103,http://view2.fdu.edu/publicmind/2016/161018/
+2016,2016,2016226,4,New Jersey,2016-09-06,2016-09-10,735,368,213,https://eagletonpollblog.files.wordpress.com/2016/09/rutgers-eagleton-poll-2016-election-head-to-head-results1.pdf
+2016,2016,2016060,4,New Jersey,2016-09-02,2016-09-05,800,376,344,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016227,4,New Mexico,2016-11-06,2016-11-06,8439,3882,3713,http://www.realclearpolitics.com/docs/2016/Zia_Poll_NM_November.pdf
+2016,2016,2016228,4,New Mexico,2016-11-01,2016-11-03,504,227,202,https://www.abqjournal.com/883092/clinton-still-ahead-in-new-mexico.html
+2016,2016,2016229,4,New Mexico,2016-11-01,2016-11-02,1102,507,474,http://www.realclearpolitics.com/docs/2016/Zia_Poll_November_4th_2016.pdf
+2016,2016,2016230,4,New Mexico,2016-10-24,2016-10-24,1899,855,760,https://projects.fivethirtyeight.com/polls/20161027_NM.pdf
+2016,2016,2016231,4,New Mexico,2016-10-11,2016-10-11,1536,707,553,https://web.archive.org/web/20161019012358/http://projects.fivethirtyeight.com.s3.amazonaws.com/polls/20161017_NM.pdf
+2016,2016,2016232,4,New Mexico,2016-09-28,2016-10-02,594,273,196,http://www.surveyusa.com/client/PollReport.aspx?g=fda53900-e6db-46a6-86a5-81e39fd92d32
+2016,2016,2016233,4,New Mexico,2016-09-27,2016-09-29,501,175,155,https://www.abqjournal.com/857961/clinton-trump-in-tight-race-in-new-mexico.html
+2016,2016,2016234,2,New York,2016-09-21,2016-09-23,676,385,223,http://maristpoll.marist.edu/wp-content/misc/nyspolls/NY160921/NBC%204%20NY_WSJ_Marist%20Poll_New%20York%20State_Written%20Summary%20of%20Findings_September%202016.pdf
+2016,2016,2016235,4,New York,2016-11-03,2016-11-04,617,315,210,https://www.siena.edu/assets/files/news/SNY1116_Crosstabs_%281%29732.pdf
+2016,2016,2016236,4,New York,2016-10-13,2016-10-17,611,330,183,http://files.constantcontact.com/9c83fb30501/bf2b01c8-26d1-4eaf-983a-1ee767e34e62.pdf
+2016,2016,2016234,4,New York,2016-09-21,2016-09-23,676,352,210,http://maristpoll.marist.edu/wp-content/misc/nyspolls/NY160921/NBC%204%20NY_WSJ_Marist%20Poll_New%20York%20State_Written%20Summary%20of%20Findings_September%202016.pdf
+2016,2016,2016237,4,New York,2016-09-11,2016-09-15,600,306,180,https://web.archive.org/web/20161017232904/https://www.siena.edu/assets/files/news/SNY0816_Crosstabs_3987_081516.pdf
+2016,2016,2016238,2,North Carolina,2016-11-03,2016-11-06,870,418,392,https://web.archive.org/web/20161107221810/https://poll.qu.edu/images/polling/ps/ps11072016.pdf/
+2016,2016,2016161,2,North Carolina,2016-10-31,2016-11-01,1169,573,549,https://cdn.americanprogress.org/content/uploads/sites/2/2016/11/03143903/NationalMemo112-Final.pdf
+2016,2016,2016239,2,North Carolina,2016-10-27,2016-11-01,602,289,277,https://web.archive.org/web/20161104001657/https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016240,2,North Carolina,2016-10-25,2016-10-26,780,390,343,https://scribd.com/document/329401008/NBC-News-Wall-Street-Journal-Marist-North-Carolina-Battleground-Poll
+2016,2016,2016062,2,North Carolina,2016-10-20,2016-10-26,702,351,309,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016241,2,North Carolina,2016-10-20,2016-10-23,792,388,325,http://files.constantcontact.com/9c83fb30501/a28d624b-bd7e-46a7-a024-573e184bd3bb.pdf
+2016,2016,2016242,2,North Carolina,2016-10-21,2016-10-22,875,429,402,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NC_102416.pdf
+2016,2016,2016243,2,North Carolina,2016-10-06,2016-10-19,1233,555,530,https://web.archive.org/web/20161104210056/http://www.ipsos-na.com/download/pr.aspx?id=16072
+2016,2016,2016244,2,North Carolina,2016-10-14,2016-10-16,651,312,299,http://www.twcnews.com/nc/triangle-sandhills/politics/2016/10/18/exclusive-time-warner-cable-news-poll--clinton-trump-burr-ross-mccrory-cooper-all-neck-and-neck-as-early-voting-nears-start.html
+2016,2016,2016245,2,North Carolina,2016-10-10,2016-10-15,788,394,378,http://i2.cdn.turner.com/cnn/2016/images/10/17/link.1..pdf
+2016,2016,2016246,2,North Carolina,2016-10-10,2016-10-12,743,357,319,http://www.nbcnews.com/politics/first-read/poll-clinton-ahead-north-carolina-virtual-tie-ohio-n665981
+2016,2016,2016247,2,North Carolina,2016-09-29,2016-10-02,805,370,362,https://www.bloomberg.com/politics/articles/2016-10-03/north-carolina-poll
+2016,2016,2016248,2,North Carolina,2016-09-27,2016-10-02,507,248,233,https://web.archive.org/web/20161005111043/https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016046,2,North Carolina,2016-09-27,2016-09-28,861,422,387,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016249,2,North Carolina,2016-09-18,2016-09-20,734,308,345,https://web.archive.org/web/20160922003550/http://www.foxnews.com/politics/interactive/2016/09/21/fox-news-poll-north-carolina/
+2016,2016,2016250,2,North Carolina,2016-09-18,2016-09-20,1024,481,481,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NC_92116.pdf
+2016,2016,2016185,2,North Carolina,2016-09-10,2016-09-19,400,192,180,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016251,3,North Carolina,2016-11-04,2016-11-06,800,352,352,https://web.archive.org/web/20161108161805/https://www.siena.edu/assets/files/news/NCUpshot1116_Crosstabs_541.pdf
+2016,2016,2016238,3,North Carolina,2016-11-03,2016-11-06,870,409,392,https://web.archive.org/web/20161107221810/https://poll.qu.edu/images/polling/ps/ps11072016.pdf/
+2016,2016,2016252,3,North Carolina,2016-11-01,2016-11-02,2596,1168,1246,http://big.assets.huffingtonpost.com/ABC_NC_STATEWIDE110416.pdf
+2016,2016,2016239,3,North Carolina,2016-10-27,2016-11-01,602,283,265,https://web.archive.org/web/20161104001657/https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016253,3,North Carolina,2016-10-28,2016-10-31,659,290,336,http://www.wral.com/asset/news/state/nccapitol/2016/11/01/16183925/261876-WRAL_News_poll_Nov._1_2016_.pdf
+2016,2016,2016254,3,North Carolina,2016-10-23,2016-10-30,1176,529,553,http://www.realclearpolitics.com/docs/2016/Remington_Research_North_Carolina_October_31_2016.pdf
+2016,2016,2016203,3,North Carolina,2016-10-26,2016-10-27,650,312,292,http://media.wix.com/ugd/3bebb2_136cb97bafca4b36838f08d63a5d1a0c.pdf
+2016,2016,2016240,3,North Carolina,2016-10-25,2016-10-26,780,367,320,https://scribd.com/document/329401008/NBC-News-Wall-Street-Journal-Marist-North-Carolina-Battleground-Poll
+2016,2016,2016062,3,North Carolina,2016-10-20,2016-10-26,702,330,302,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016241,3,North Carolina,2016-10-20,2016-10-23,792,364,309,http://files.constantcontact.com/9c83fb30501/a28d624b-bd7e-46a7-a024-573e184bd3bb.pdf
+2016,2016,2016255,3,North Carolina,2016-10-20,2016-10-23,402,189,185,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_NC_102416/
+2016,2016,2016242,3,North Carolina,2016-10-21,2016-10-22,875,411,385,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NC_102416.pdf
+2016,2016,2016256,3,North Carolina,2016-10-20,2016-10-22,1746,768,821,http://big.assets.huffingtonpost.com/NCSTATEWIDE.pdf
+2016,2016,2016257,3,North Carolina,2016-10-14,2016-10-17,600,264,252,https://www.nccivitas.org/wp-content/uploads/2016/10/CivitasOctoberPoll_release.pdf
+2016,2016,2016244,3,North Carolina,2016-10-14,2016-10-16,651,299,286,http://www.twcnews.com/nc/triangle-sandhills/politics/2016/10/18/exclusive-time-warner-cable-news-poll--clinton-trump-burr-ross-mccrory-cooper-all-neck-and-neck-as-early-voting-nears-start.html
+2016,2016,2016245,3,North Carolina,2016-10-10,2016-10-15,788,378,370,http://i2.cdn.turner.com/cnn/2016/images/10/17/link.1..pdf
+2016,2016,2016246,3,North Carolina,2016-10-10,2016-10-12,743,334,305,http://www.nbcnews.com/politics/first-read/poll-clinton-ahead-north-carolina-virtual-tie-ohio-n665981
+2016,2016,2016258,3,North Carolina,2016-10-10,2016-10-12,500,225,215,https://web.archive.org/web/20161014060650/http://www.suffolk.edu/news/67728.php#.V_-5YyQYJ-A
+2016,2016,2016259,3,North Carolina,2016-10-01,2016-10-06,479,206,201,http://www.highpoint.edu/src/files/2016/10/48memoA.pdf
+2016,2016,2016260,3,North Carolina,2016-09-29,2016-10-03,656,302,289,http://www.wral.com/asset/news/state/nccapitol/2016/10/04/16082184/WRAL_News_poll.pdf
+2016,2016,2016248,3,North Carolina,2016-09-27,2016-10-02,507,233,218,https://web.archive.org/web/20161005111043/https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016046,3,North Carolina,2016-09-27,2016-09-28,861,379,362,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016261,3,North Carolina,2016-09-18,2016-09-22,487,185,170,https://web.archive.org/web/20160930112557/http://www.meredith.edu/images/uploads/MC_Poll_September_2016_Political_Races_Full_Report.pdf
+2016,2016,2016262,3,North Carolina,2016-09-17,2016-09-22,404,174,170,http://www.highpoint.edu/src/files/2016/09/47memoA.pdf
+2016,2016,2016249,3,North Carolina,2016-09-18,2016-09-20,734,294,330,https://web.archive.org/web/20160922003550/http://www.foxnews.com/politics/interactive/2016/09/21/fox-news-poll-north-carolina/
+2016,2016,2016250,3,North Carolina,2016-09-18,2016-09-20,1024,440,461,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_NC_92116.pdf
+2016,2016,2016263,3,North Carolina,2016-09-16,2016-09-19,782,321,321,http://files.constantcontact.com/9c83fb30501/5f71c952-eb63-429a-8236-34989a8765ae.pdf
+2016,2016,2016264,3,North Carolina,2016-09-11,2016-09-12,600,252,252,https://www.nccivitas.org/2016/new-civitas-poll-shows-trump-and-hillary-in-dead-heat/
+2016,2016,2016265,3,North Carolina,2016-09-05,2016-09-07,500,205,220,http://www.suffolk.edu/academics/10740.php
+2016,2016,2016266,4,North Carolina,2016-10-27,2016-11-01,1154,508,565,https://drive.google.com/file/d/0B4lhKxf9pMitRFdHQVQxZEJWVG8/view
+2016,2016,2016267,4,North Carolina,2016-10-26,2016-10-28,992,476,446,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/6y8p6qu9kr/NC_Final_20161030.pdf
+2016,2016,2016268,4,North Carolina,2016-10-23,2016-10-27,710,298,291,https://www.elon.edu/e/CmsFile/GetFile?FileID=694
+2016,2016,2016243,4,North Carolina,2016-10-06,2016-10-19,1233,555,530,https://web.archive.org/web/20161104210056/http://www.ipsos-na.com/download/pr.aspx?id=16072
+2016,2016,2016269,4,North Carolina,2016-10-10,2016-10-12,600,276,252,http://media.wix.com/ugd/3bebb2_dda23cc232d44336bac0d64e85a059ff.pdf
+2016,2016,2016247,4,North Carolina,2016-09-29,2016-10-02,805,354,346,https://www.bloomberg.com/politics/articles/2016-10-03/north-carolina-poll
+2016,2016,2016270,4,North Carolina,2016-09-27,2016-09-30,660,297,257,https://www.elon.edu/e/CmsFile/GetFile?FileID=650
+2016,2016,2016185,4,North Carolina,2016-09-10,2016-09-19,400,176,160,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016271,4,North Carolina,2016-09-12,2016-09-16,644,277,283,https://web.archive.org/web/20160921055334/https://www.elon.edu/e/CmsFile/GetFile?FileID=638
+2016,2016,2016272,4,North Dakota,2016-09-12,2016-09-17,400,128,172,https://scribd.com/document/324685567/ND-Pres-DFM-Research-Sept-2016
+2016,2016,2016273,2,Ohio,2016-10-27,2016-11-05,1151,552,541,http://www.dispatch.com/content/stories/local/2016/11/06/dispatch-poll-finds-presidential-race-too-close-to-call.html#
+2016,2016,2016239,2,Ohio,2016-10-27,2016-11-01,589,259,277,https://web.archive.org/web/20161104001657/https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016045,2,Ohio,2016-10-10,2016-10-16,624,293,300,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016274,2,Ohio,2016-10-10,2016-10-15,774,364,387,http://i2.cdn.turner.com/cnn/2016/images/10/17/link.3..pdf
+2016,2016,2016246,2,Ohio,2016-10-10,2016-10-12,724,326,326,http://www.nbcnews.com/politics/first-read/poll-clinton-ahead-north-carolina-virtual-tie-ohio-n665981
+2016,2016,2016275,2,Ohio,2016-10-06,2016-10-12,1200,528,492,https://web.archive.org/web/20161104020020/http://ipsos-na.com/download/pr.aspx?id=16070
+2016,2016,2016276,2,Ohio,2016-10-09,2016-10-11,1152,553,438,http://www.cleveland.com/open/index.ssf/2016/10/new_ohio_poll_puts_hillary_cli.html#incart_2box
+2016,2016,2016277,2,Ohio,2016-10-05,2016-10-06,872,419,410,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_OH_100616.pdf
+2016,2016,2016278,2,Ohio,2016-10-03,2016-10-06,812,374,349,https://www.scribd.com/document/326848657/TargetSmart-William-Mary-Poll-Ohio-Statewide-Wave-2
+2016,2016,2016279,2,Ohio,2016-09-27,2016-10-02,800,368,352,https://www.scribd.com/document/326538857/OH-Sen-Anzalone-Liszt-Grove-for-the-Ohio-Education-Association-Oct-2016?link_id=23&can_id=3988fa989da190d30e93d8a03b9a4393&source=email-morning-digest-oregon-republican-says-educated-women-cant-be-domestic-violenc
+2016,2016,2016248,2,Ohio,2016-09-27,2016-10-02,497,229,244,https://web.archive.org/web/20161005111043/https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016280,2,Ohio,2016-09-15,2016-09-22,652,280,261,https://www.scribd.com/document/325387759/TargetSmart-William-Mary-Poll-Ohio-Statewide
+2016,2016,2016281,2,Ohio,2016-09-18,2016-09-20,737,295,332,http://www.foxnews.com/politics/interactive/2016/09/21/fox-news-poll-ohio/
+2016,2016,2016185,2,Ohio,2016-09-10,2016-09-19,400,184,184,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016282,2,Ohio,2016-09-09,2016-09-12,802,345,385,https://www.bloomberg.com/politics/articles/2016-09-14/ohio-poll
+2016,2016,2016283,2,Ohio,2016-09-07,2016-09-12,769,354,384,http://i2.cdn.turner.com/cnn/2016/images/09/14/ohiopoll.pdf
+2016,2016,2016284,3,Ohio,2016-11-01,2016-11-02,2557,1125,1151,http://big.assets.huffingtonpost.com/ABC_OH_STATEWIDE110416.pdf
+2016,2016,2016285,3,Ohio,2016-10-23,2016-10-30,1187,510,570,http://www.realclearpolitics.com/docs/2016/Remington_Research_Ohio_October_31_2016.pdf
+2016,2016,2016286,3,Ohio,2016-10-20,2016-10-22,1971,828,907,http://big.assets.huffingtonpost.com/OHSTATEWIDE.pdf
+2016,2016,2016164,4,Ohio,2016-11-04,2016-11-05,900,351,414,http://media.wix.com/ugd/3bebb2_4c95f9bb0b874960a67b0cb7c019efd8.pdf
+2016,2016,2016287,4,Ohio,2016-11-02,2016-11-04,1189,535,547,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/vvlr48n70w/OH_Prelim_20161106.pdf
+2016,2016,2016288,4,Ohio,2016-10-31,2016-11-03,844,338,363,https://ru.scribd.com/document/330232698/TargetSmart-William-Mary-Release-Final-2016-Election-Survey-of-Ohio-Early-and-Likely-Voters
+2016,2016,2016239,4,Ohio,2016-10-27,2016-11-01,589,241,271,https://web.archive.org/web/20161104001657/https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016203,4,Ohio,2016-10-26,2016-10-27,800,360,360,http://media.wix.com/ugd/3bebb2_136cb97bafca4b36838f08d63a5d1a0c.pdf
+2016,2016,2016289,4,Ohio,2016-10-24,2016-10-26,1150,506,564,https://drive.google.com/file/d/0B4lhKxf9pMitc3JzeUJiN3MxZHc/view
+2016,2016,2016045,4,Ohio,2016-10-10,2016-10-16,624,281,281,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016274,4,Ohio,2016-10-10,2016-10-15,774,341,372,http://i2.cdn.turner.com/cnn/2016/images/10/17/link.3..pdf
+2016,2016,2016246,4,Ohio,2016-10-10,2016-10-12,724,297,304,http://www.nbcnews.com/politics/first-read/poll-clinton-ahead-north-carolina-virtual-tie-ohio-n665981
+2016,2016,2016269,4,Ohio,2016-10-10,2016-10-12,600,270,258,http://media.wix.com/ugd/3bebb2_dda23cc232d44336bac0d64e85a059ff.pdf
+2016,2016,2016275,4,Ohio,2016-10-06,2016-10-12,1200,516,468,https://web.archive.org/web/20161104020020/http://ipsos-na.com/download/pr.aspx?id=16070
+2016,2016,2016276,4,Ohio,2016-10-09,2016-10-11,1152,495,392,http://www.cleveland.com/open/index.ssf/2016/10/new_ohio_poll_puts_hillary_cli.html#incart_2box
+2016,2016,2016290,4,Ohio,2016-10-05,2016-10-07,997,459,419,http://www.cbsnews.com/news/poll-gender-gap-in-views-on-trumps-2005-tape/?ftag=CNM-00-10aab7i&linkId=29728068
+2016,2016,2016277,4,Ohio,2016-10-05,2016-10-06,872,384,375,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_OH_100616.pdf
+2016,2016,2016278,4,Ohio,2016-10-03,2016-10-06,812,357,341,https://www.scribd.com/document/326848657/TargetSmart-William-Mary-Poll-Ohio-Statewide-Wave-2
+2016,2016,2016291,4,Ohio,2016-10-01,2016-10-04,405,178,170,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_OH_100516/
+2016,2016,2016279,4,Ohio,2016-09-27,2016-10-02,800,352,336,https://www.scribd.com/document/326538857/OH-Sen-Anzalone-Liszt-Grove-for-the-Ohio-Education-Association-Oct-2016?link_id=23&can_id=3988fa989da190d30e93d8a03b9a4393&source=email-morning-digest-oregon-republican-says-educated-women-cant-be-domestic-violenc
+2016,2016,2016248,4,Ohio,2016-09-27,2016-10-02,497,209,234,https://web.archive.org/web/20161005111043/https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016280,4,Ohio,2016-09-15,2016-09-22,652,261,241,https://www.scribd.com/document/325387759/TargetSmart-William-Mary-Poll-Ohio-Statewide
+2016,2016,2016281,4,Ohio,2016-09-18,2016-09-20,737,273,310,http://www.foxnews.com/politics/interactive/2016/09/21/fox-news-poll-ohio/
+2016,2016,2016185,4,Ohio,2016-09-10,2016-09-19,400,156,164,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016282,4,Ohio,2016-09-09,2016-09-12,802,313,353,https://www.bloomberg.com/politics/articles/2016-09-14/ohio-poll
+2016,2016,2016283,4,Ohio,2016-09-07,2016-09-12,769,315,354,http://i2.cdn.turner.com/cnn/2016/images/09/14/ohiopoll.pdf
+2016,2016,2016292,4,Ohio,2016-09-07,2016-09-09,994,457,388,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/55tpi6jrz1/OH_ForRelease_20160911.pdf
+2016,2016,2016293,5,Ohio,2016-10-17,2016-10-19,500,225,225,https://web.archive.org/web/20161021012339/http://www.suffolk.edu/news/67777.php#.WAmlgSTlYdI
+2016,2016,2016294,5,Ohio,2016-09-12,2016-09-14,500,195,210,https://web.archive.org/web/20160915162634/http://www.suffolk.edu/news/67568.php#.V9rTY63lYdI
+2016,2016,2016295,2,Oklahoma,2016-10-18,2016-10-20,530,159,318,http://soonerpoll.com/oklahoman-trump-solidifies-lead-in-oklahoma-poll-shows/
+2016,2016,2016296,2,Oklahoma,2016-09-13,2016-09-15,515,185,263,http://newsok.com/clinton-gains-some-ground-on-trump-in-oklahoma-poll-shows/article/5518562
+2016,2016,2016297,4,Oregon,2016-10-24,2016-10-29,504,207,171,https://web.archive.org/web/20161102153526/http://www.kptv.com/story/33544841/fox-12-dhm-poll-clinton-leads-trump-in-oregon-measure-97-trends-toward-defeat
+2016,2016,2016298,4,Oregon,2016-10-04,2016-10-14,608,280,219,http://www.kgw.com/mb/news/politics/elections/kgworegonian-poll-measure-97-a-virtual-tie-clinton-brown-lead/337615312
+2016,2016,2016299,4,Oregon,2016-10-06,2016-10-13,600,258,216,http://www.opb.org/news/series/election-2016/hillary-clinton-kate-brown-lead-in-new-opb-poll/
+2016,2016,2016300,4,Oregon,2016-10-10,2016-10-12,654,314,249,http://www.surveyusa.com/client/PollReport.aspx?g=088d0066-02dc-4faa-affe-a321d1390f73
+2016,2016,2016301,4,Oregon,2016-09-29,2016-10-01,605,272,200,http://res.cloudinary.com/bdy4ger4/image/upload/v1475532480/HOFFMAN_0916_SURVEY_REPORT_mdltu9.pdf
+2016,2016,2016302,4,Oregon,2016-09-02,2016-09-07,610,262,171,https://web.archive.org/web/20160915122209/https://icitizen.com/insights/oregon-poll-results-september-2016/
+2016,2016,2016303,4,Oregon,2016-09-01,2016-09-06,517,196,129,https://www.scribd.com/document/323304290/DHM-Oregon-Statewide-Survey-Media-Advisory-Annotated-Questionnaire-September-2016#from_embed
+2016,2016,2016304,2,Pennsylvania,2016-10-30,2016-11-04,420,202,176,http://www.mcall.com/news/local/elections/mc-pa-poll-trump-clinton-toomey-mcginty-20161105-story.html
+2016,2016,2016161,2,Pennsylvania,2016-10-31,2016-11-01,1050,504,462,https://cdn.americanprogress.org/content/uploads/sites/2/2016/11/03143903/NationalMemo112-Final.pdf
+2016,2016,2016305,2,Pennsylvania,2016-10-27,2016-11-01,799,407,368,http://i2.cdn.turner.com/cnn/2016/images/11/02/relpa2.pdf
+2016,2016,2016239,2,Pennsylvania,2016-10-27,2016-11-01,612,306,269,https://web.archive.org/web/20161104001657/https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016306,2,Pennsylvania,2016-10-31,2016-10-31,2606,1329,1277,http://www.realclearpolitics.com/docs/2016/Gravis_PA_November_3rd_2016.pdf
+2016,2016,2016307,2,Pennsylvania,2016-10-20,2016-10-26,420,193,172,https://web.archive.org/web/20161029112142/http://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA-Pres_MidOct_Report.pdf
+2016,2016,2016308,2,Pennsylvania,2016-10-06,2016-10-17,1467,660,572,https://web.archive.org/web/20161104020009/http://ipsos-na.com/download/pr.aspx?id=16069
+2016,2016,2016045,2,Pennsylvania,2016-10-10,2016-10-16,660,337,297,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016309,2,Pennsylvania,2016-10-07,2016-10-11,806,411,339,http://assets.bwbx.io/documents/users/iqjWHBFdfxIU/r6h71fNtYgUc/v0
+2016,2016,2016310,2,Pennsylvania,2016-10-03,2016-10-06,709,362,277,http://www.nbcnews.com/storyline/2016-presidential-debates/polls-clinton-ahead-florida-pennsylvania-n662076
+2016,2016,2016248,2,Pennsylvania,2016-09-27,2016-10-02,535,257,230,https://web.archive.org/web/20161005111043/https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016046,2,Pennsylvania,2016-09-27,2016-09-28,886,434,390,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016311,2,Pennsylvania,2016-09-20,2016-09-25,771,386,362,http://i2.cdn.turner.com/cnn/2016/images/09/26/relpa1.pdf
+2016,2016,2016312,2,Pennsylvania,2016-09-19,2016-09-23,486,214,199,https://assets.documentcloud.org/documents/3113757/2016-Muhlenberg-College-Morning-Call-late.pdf
+2016,2016,2016185,2,Pennsylvania,2016-09-10,2016-09-19,400,204,168,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016313,2,Pennsylvania,2016-09-12,2016-09-16,405,190,154,https://assets.documentcloud.org/documents/3110213/Election-poll-9-17-2016.pdf
+2016,2016,2016314,3,Pennsylvania,2016-11-01,2016-11-02,2683,1234,1207,http://big.assets.huffingtonpost.com/ABC_PA_STATEWIDE110416.pdf
+2016,2016,2016315,3,Pennsylvania,2016-10-30,2016-10-30,1249,562,537,http://www.realclearpolitics.com/docs/2016/Remington_Research_Pennsylvania_October_31_2016.pdf
+2016,2016,2016316,3,Pennsylvania,2016-10-20,2016-10-22,1997,899,839,http://big.assets.huffingtonpost.com/PASTATEWIDE.pdf
+2016,2016,2016317,4,Pennsylvania,2016-11-03,2016-11-06,1220,561,488,http://www.gravispolls.com/2016/11/multi-state-polls.html?m=1
+2016,2016,2016318,4,Pennsylvania,2016-11-03,2016-11-05,1300,611,624,https://drive.google.com/file/d/0B4lhKxf9pMiteE9pZkcwQnZ3TVk/view
+2016,2016,2016304,4,Pennsylvania,2016-10-30,2016-11-04,405,178,162,http://www.mcall.com/news/local/elections/mc-pa-poll-trump-clinton-toomey-mcginty-20161105-story.html
+2016,2016,2016319,4,Pennsylvania,2016-11-02,2016-11-03,504,232,232,https://web.archive.org/web/20161105033203/http://harperpolling.com/polls/pennsylvania-statewide-poll--11-2-3
+2016,2016,2016320,4,Pennsylvania,2016-10-31,2016-11-01,681,306,293,https://mgtvwhtm.files.wordpress.com/2016/11/toplines-statewideabc272-oct16.pdf
+2016,2016,2016321,4,Pennsylvania,2016-10-29,2016-11-01,403,193,177,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_110216/
+2016,2016,2016305,4,Pennsylvania,2016-10-27,2016-11-01,799,384,352,http://i2.cdn.turner.com/cnn/2016/images/11/02/relpa2.pdf
+2016,2016,2016239,4,Pennsylvania,2016-10-27,2016-11-01,612,294,263,https://web.archive.org/web/20161104001657/https://poll.qu.edu/images/polling/ps/ps11022016_Sbyf37m.pdf/
+2016,2016,2016306,4,Pennsylvania,2016-10-31,2016-10-31,2606,1225,1199,http://www.realclearpolitics.com/docs/2016/Gravis_PA_November_3rd_2016.pdf
+2016,2016,2016322,4,Pennsylvania,2016-10-26,2016-10-30,652,319,248,http://www.fandm.edu/uploads/files/913809798323927231-f-m-poll-release-october-2016.pdf
+2016,2016,2016323,4,Pennsylvania,2016-10-26,2016-10-28,1091,524,436,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/2vh5tjbq8a/PA_Final_20161030.pdf
+2016,2016,2016153,4,Pennsylvania,2016-10-25,2016-10-26,550,264,236,http://media.wix.com/ugd/3bebb2_16b97664735d4325b018b7b608477434.pdf
+2016,2016,2016307,4,Pennsylvania,2016-10-20,2016-10-26,420,189,164,https://web.archive.org/web/20161029112142/http://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA-Pres_MidOct_Report.pdf
+2016,2016,2016324,4,Pennsylvania,2016-10-23,2016-10-25,824,379,321,https://web.archive.org/web/20161031052317/https://www.siena.edu/assets/files/news/PA_oct_release_final261.pdf
+2016,2016,2016171,4,Pennsylvania,2016-10-17,2016-10-19,800,360,328,http://media.wix.com/ugd/3bebb2_98fe8b3559f64960a573ecad7dc22ec9.pdf
+2016,2016,2016308,4,Pennsylvania,2016-10-06,2016-10-17,1467,660,557,https://web.archive.org/web/20161104020009/http://ipsos-na.com/download/pr.aspx?id=16069
+2016,2016,2016045,4,Pennsylvania,2016-10-10,2016-10-16,660,310,271,https://web.archive.org/web/20161018214453/https://www.qu.edu/images/polling/ps/ps10172016_Sub62fgv.pdf
+2016,2016,2016309,4,Pennsylvania,2016-10-07,2016-10-11,806,387,314,http://assets.bwbx.io/documents/users/iqjWHBFdfxIU/r6h71fNtYgUc/v0
+2016,2016,2016325,4,Pennsylvania,2016-10-07,2016-10-10,1747,804,681,https://web.archive.org/web/20161019060204/http://luc.id/wp-content/uploads/2016/10/Pennsylvania-Results.pdf?link_id=23&can_id=3988fa989da190d30e93d8a03b9a4393&source=email-morning-digest-all-of-a-sudden-catherine-cortez-masto-jumps-into-the-lead-in-nevada&email_referrer=morning-digest-all-of-a-su
+2016,2016,2016326,4,Pennsylvania,2016-10-04,2016-10-09,764,336,306,https://web.archive.org/web/20161014110852/https://mgtvwhtm.files.wordpress.com/2016/10/toplines-statewideabc27-oct16.pdf
+2016,2016,2016290,4,Pennsylvania,2016-10-05,2016-10-07,997,479,399,http://www.cbsnews.com/news/poll-gender-gap-in-views-on-trumps-2005-tape/?ftag=CNM-00-10aab7i&linkId=29728068
+2016,2016,2016310,4,Pennsylvania,2016-10-03,2016-10-06,709,347,262,http://www.nbcnews.com/storyline/2016-presidential-debates/polls-clinton-ahead-florida-pennsylvania-n662076
+2016,2016,2016327,4,Pennsylvania,2016-09-30,2016-10-03,402,201,161,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_PA_100416/
+2016,2016,2016328,4,Pennsylvania,2016-09-28,2016-10-02,496,233,188,http://www.fandm.edu/uploads/files/222225192411477697-f-m-poll-release-september-2016.pdf
+2016,2016,2016248,4,Pennsylvania,2016-09-27,2016-10-02,535,241,219,https://web.archive.org/web/20161005111043/https://www.qu.edu/images/polling/ps/ps10032016_S27kmrd.pdf
+2016,2016,2016046,4,Pennsylvania,2016-09-27,2016-09-28,886,399,346,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016311,4,Pennsylvania,2016-09-20,2016-09-25,771,347,339,http://i2.cdn.turner.com/cnn/2016/images/09/26/relpa1.pdf
+2016,2016,2016312,4,Pennsylvania,2016-09-19,2016-09-23,486,194,185,https://assets.documentcloud.org/documents/3113757/2016-Muhlenberg-College-Morning-Call-late.pdf
+2016,2016,2016329,4,Pennsylvania,2016-09-12,2016-09-23,420,176,172,https://www.mercyhurst.edu/sites/default/files/uploads/%3Cem%3EEdit%20Simple%3C/em%3E%20MCAP%20Polls%20/mcap_presidential_poll_fall_2016.pdf
+2016,2016,2016330,4,Pennsylvania,2016-09-21,2016-09-22,500,225,215,https://web.archive.org/web/20161001063827/http://harperpolling.com/polls/pennsylvania-statewide-poll--9-21-22
+2016,2016,2016185,4,Pennsylvania,2016-09-10,2016-09-19,400,184,152,http://www.democracycorps.com/attachments/article/1044/Dcorps_WV_Sept%20BG%20Deck_9.23.2016_release.pdf
+2016,2016,2016313,4,Pennsylvania,2016-09-12,2016-09-16,405,162,130,https://assets.documentcloud.org/documents/3110213/Election-poll-9-17-2016.pdf
+2016,2016,2016024,4,Rhode Island,2016-10-02,2016-10-04,600,312,192,http://media.wix.com/ugd/3bebb2_7af2e664bfad4690bfb4a994b0f0836c.pdf
+2016,2016,2016060,4,Rhode Island,2016-09-02,2016-09-05,800,352,328,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016331,3,South Carolina,2016-09-07,2016-09-09,600,210,288,https://web.archive.org/web/20160914164515/http://www.postandcourier.com/20160913/160919767/trump-leads-in-new-sc-gop-poll-out-today
+2016,2016,2016332,4,South Carolina,2016-10-30,2016-10-31,600,216,282,http://www.thestate.com/news/politics-government/article112299202.html
+2016,2016,2016333,4,South Carolina,2016-09-18,2016-09-26,475,180,200,https://web.archive.org/web/20120321213048/http://www.winthrop.edu/winthroppoll/default.aspx?id=9804
+2016,2016,2016334,4,South Carolina,2016-09-06,2016-09-12,1247,474,661,https://drive.google.com/file/d/0B4lhKxf9pMitUjZhbDJwVGQteTA/view
+2016,2016,2016335,3,South Dakota,2016-10-18,2016-10-20,400,148,176,https://web.archive.org/web/20161026083052/http://www.keloland.com/news/politics/campaign/keloland-campaign-2016-poll/
+2016,2016,2016336,4,South Dakota,2016-10-24,2016-10-26,600,210,294,https://web.archive.org/web/20161102155148/http://kelo.com/news/articles/2016/nov/01/poll-trump-thune-noem-maintain-leads-in-sd/
+2016,2016,2016337,4,South Dakota,2016-10-19,2016-10-21,1115,413,535,http://www.ksfy.com/content/news/Poll-Trump-Thune-hold-double-digit-leads-in-South-Dakota-398112241.html
+2016,2016,2016338,2,Tennessee,2016-09-28,2016-10-02,472,189,236,http://mtsupoll.org/2016/10/04/f2016pres/
+2016,2016,2016339,4,Tennessee,2016-10-14,2016-10-17,508,173,224,https://icitizen.com/insights/tennessee-poll-results-october-2016-election/
+2016,2016,2016338,4,Tennessee,2016-09-28,2016-10-02,472,179,236,http://mtsupoll.org/2016/10/04/f2016pres/
+2016,2016,2016340,4,Tennessee,2016-09-19,2016-10-02,1000,330,440,http://www.tennessean.com/story/news/politics/2016/10/06/vanderbilt-poll-trump-leads-clinton-11-points-tennessee/91628616/
+2016,2016,2016006,2,Texas,2016-10-30,2016-11-01,679,278,333,http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626
+2016,2016,2016341,2,Texas,2016-09-01,2016-09-11,502,181,211,http://www.texaslyceum.org/resources/Pictures/Texas%20Lyceum%202016%20Poll%20Topline.pdf
+2016,2016,2016342,3,Texas,2016-10-22,2016-10-24,800,304,360,http://www.mystatesman.com/news/news/state-regional-govt-politics/new-texas-polls-shows-trump-with-small-but-safe-le/nsx2d/
+2016,2016,2016343,4,Texas,2016-10-31,2016-11-01,700,245,343,http://media.wix.com/ugd/3bebb2_f1333cfb6e9f42ae9d2e9dd81053b33a.pdf
+2016,2016,2016006,4,Texas,2016-10-30,2016-11-01,679,272,333,http://www.nbcnews.com/politics/2016-election/polls-trump-ahead-arizona-texas-deadlocked-georgia-n677626
+2016,2016,2016344,4,Texas,2016-10-27,2016-10-29,980,382,510,https://www.cbsnews.com/dfw/news/donald-trump-surges-to-12-point-lead-in-texas/
+2016,2016,2016345,4,Texas,2016-10-14,2016-10-23,959,403,432,https://www.texastribune.org/2016/10/27/uttt-poll-trump-holds-narrow-lead-over-clinton/
+2016,2016,2016346,4,Texas,2016-10-20,2016-10-21,1031,443,474,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/1zhdvfbx7y/TX_Final_20161023.pdf
+2016,2016,2016347,4,Texas,2016-10-07,2016-10-15,1000,380,410,http://www.uh.edu/class/hobby/texas2016/
+2016,2016,2016348,4,Texas,2016-10-10,2016-10-12,638,274,300,http://www.surveyusa.com/client/PollReport.aspx?g=faea8eba-c782-4534-8805-83846d8a5c55
+2016,2016,2016349,4,Texas,2016-09-29,2016-10-01,780,296,351,https://www.cbsnews.com/dfw/news/trump-leads-clinton-gains-in-latest-texas-ktvt-cbs-11-dixie-strategies-poll/
+2016,2016,2016341,4,Texas,2016-09-01,2016-09-11,502,161,196,http://www.texaslyceum.org/resources/Pictures/Texas%20Lyceum%202016%20Poll%20Topline.pdf
+2016,2016,2016350,4,Texas,2016-09-07,2016-09-10,700,252,294,http://media.wix.com/ugd/3bebb2_01dca97a9c05411984c50df92d62cf50.pdf
+2016,2016,2016351,4,Utah,2016-11-03,2016-11-05,1352,406,541,https://drive.google.com/file/d/0B4lhKxf9pMitMnpma3JKTjh4aGs/view
+2016,2016,2016352,4,Utah,2016-10-29,2016-10-31,750,232,315,http://www.rasmussenreports.com/public_content/politics/elections/election_2016/utah/questions_election_2016_utah_president_senate_october_29_31_2016
+2016,2016,2016353,4,Utah,2016-10-23,2016-10-24,750,210,240,http://www.rasmussenreports.com/public_content/politics/elections/election_2016/utah/questions_election_2016_utah_president_senate_october_23_24_2016
+2016,2016,2016354,5,Utah,2016-11-01,2016-11-03,500,120,165,http://www.deseretnews.com/article/865666429/New-poll-shows-voter-uncertainty-about-Trump-lead-in-Utah.html
+2016,2016,2016343,5,Utah,2016-11-01,2016-11-02,1000,200,400,http://media.wix.com/ugd/3bebb2_f1333cfb6e9f42ae9d2e9dd81053b33a.pdf
+2016,2016,2016355,5,Utah,2016-10-30,2016-11-02,402,125,149,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_UT_110316/
+2016,2016,2016356,5,Utah,2016-10-30,2016-10-31,1424,413,498,https://www.scribd.com/document/330023731/UTAH-Final
+2016,2016,2016357,5,Utah,2016-10-20,2016-10-27,823,198,263,https://www.scribd.com/document/329381966/Tribune-Presidential-Poll
+2016,2016,2016171,5,Utah,2016-10-17,2016-10-19,700,168,189,http://media.wix.com/ugd/3bebb2_98fe8b3559f64960a573ecad7dc22ec9.pdf
+2016,2016,2016358,5,Utah,2016-10-15,2016-10-16,750,210,225,http://heatst.com/world/exclusive-evan-mcmullin-utah-poll-independent-conservative-ties-trump/
+2016,2016,2016359,5,Utah,2016-10-12,2016-10-14,951,190,352,https://scribd.com/document/327758570/CBS-News-Battleground-Tracker-Utah-Oct-16
+2016,2016,2016360,5,Utah,2016-10-10,2016-10-12,403,113,137,http://www.monmouth.edu/polling-institute/reports/MonmouthPoll_UT_101316/
+2016,2016,2016362,5,Utah,2016-10-10,2016-10-11,500,130,130,https://www.dropbox.com/s/1p9dm1e1w184c3s/UT%20Statewide%20Presidential%20Polling%20October%202016%20Memo%20-%20Y2.pdf?dl=0
+2016,2016,2016363,5,Utah,2016-09-12,2016-09-19,820,205,279,http://www.sltrib.com/home/4390081-155/new-tribune-hinckley-poll-trump-leads-clinton
+2016,2016,2016364,6,Utah,2016-10-12,2016-10-18,818,204,245,http://utahpolicy.com/index.php/features/today-at-utah-policy/11183-trump-leads-mcmullin-by-one-point-among-likely-utah-voters
+2016,2016,2016365,6,Utah,2016-09-01,2016-09-09,605,145,236,http://utahpolicy.com/index.php/features/today-at-utah-policy/10765-poll-trump-holds-15-point-lead-over-clinton-in-utah
+2016,2016,2016366,4,Vermont,2016-10-24,2016-10-26,1052,547,274,http://rrhelections.com/index.php/2016/10/28/rrh-elections-vermont-poll-phil-scott-r-leads-sue-minter-d-45-38-for-governor/
+2016,2016,2016367,4,Vermont,2016-10-19,2016-10-22,603,302,133,https://web.archive.org/web/20161027120938/http://www.wcax.com/story/33487111/wcax-poll-vermonters-strongly-favor-clinton
+2016,2016,2016368,4,Vermont,2016-09-29,2016-10-14,650,292,111,http://digital.vpr.net/post/vpr-poll-overall-results-full-data#vpr-poll-oct2016-files-downloads
+2016,2016,2016060,4,Vermont,2016-09-02,2016-09-05,600,282,156,https://www.peoplespunditdaily.com/polls/2016/09/07/trump-threatens-new-jersey-rhode-island-clinton-leads-new-england-states/
+2016,2016,2016043,2,Virginia,2016-11-03,2016-11-04,1238,631,557,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf
+2016,2016,2016369,2,Virginia,2016-10-29,2016-11-01,654,320,262,http://www.roanoke.edu/about/news/rc_poll_nov_2016_politics
+2016,2016,2016370,2,Virginia,2016-10-27,2016-10-30,1024,522,461,https://www.washingtonpost.com/local/virginia-politics/clinton-leads-trump-in-virginia-in-new-washington-post-poll-propelled-by-voter-rich-northern-virginia/2016/10/31/1e560cce-9f9c-11e6-8832-23a007c77bb4_story.html
+2016,2016,2016371,2,Virginia,2016-10-26,2016-10-30,802,329,353,http://www.hamptonu.edu/cpp/polls/201611_presidential_poll/exec_summ.cfm
+2016,2016,2016372,2,Virginia,2016-10-23,2016-10-30,712,349,306,https://web.archive.org/web/20120321213048/http://www.winthrop.edu/winthroppoll/default.aspx?id=9804
+2016,2016,2016062,2,Virginia,2016-10-20,2016-10-26,749,397,300,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016373,2,Virginia,2016-09-28,2016-10-02,800,368,272,http://www.hamptonu.edu/cpp/polls/201610_presidential_poll/exec_summ.cfm
+2016,2016,2016046,2,Virginia,2016-09-27,2016-09-28,811,397,349,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016374,2,Virginia,2016-09-15,2016-09-23,1003,481,381,http://cnu.edu/cpp/pdf/sept%2026%202016%20report-final.pdf
+2016,2016,2016048,2,Virginia,2016-09-13,2016-09-21,659,330,283,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016375,2,Virginia,2016-09-11,2016-09-20,841,429,336,http://www.roanoke.edu/Documents/rcpoll/RCPoll.Politics.Sept2016.Qs%20Freqs.pdf
+2016,2016,2016376,2,Virginia,2016-09-06,2016-09-12,685,315,281,https://www.umw.edu/news/wp-content/uploads/sites/7/2016/09/UMW-VA-Survey-2016_First-Release-Topline.pdf
+2016,2016,2016377,2,Virginia,2016-09-09,2016-09-11,878,439,369,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_VA_91316.pdf
+2016,2016,2016378,3,Virginia,2016-11-01,2016-11-02,3076,1415,1353,http://big.assets.huffingtonpost.com/ABC_VA_STATEWIDE110416.pdf
+2016,2016,2016379,3,Virginia,2016-10-23,2016-10-30,1106,531,476,http://www.realclearpolitics.com/docs/2016/Remington_Research_Virginia_October_31_2016.pdf
+2016,2016,2016380,3,Virginia,2016-10-20,2016-10-22,1787,858,768,http://big.assets.huffingtonpost.com/VASTATEWIDE.pdf
+2016,2016,2016269,3,Virginia,2016-10-10,2016-10-12,600,276,258,http://media.wix.com/ugd/3bebb2_dda23cc232d44336bac0d64e85a059ff.pdf
+2016,2016,2016082,4,Virginia,2016-10-28,2016-10-30,800,392,360,http://www.realclearpolitics.com/docs/2016/ECP_Final_Press_Release_and_Toplines_VA_IL_ME_11.1_.pdf
+2016,2016,2016370,4,Virginia,2016-10-27,2016-10-30,1024,492,430,https://www.washingtonpost.com/local/virginia-politics/clinton-leads-trump-in-virginia-in-new-washington-post-poll-propelled-by-voter-rich-northern-virginia/2016/10/31/1e560cce-9f9c-11e6-8832-23a007c77bb4_story.html
+2016,2016,2016062,4,Virginia,2016-10-20,2016-10-26,749,374,285,https://web.archive.org/web/20161028151750/https://poll.qu.edu/images/polling/ps/ps10272016_S397fgbw.pdf/
+2016,2016,2016046,4,Virginia,2016-09-27,2016-09-28,811,373,324,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_BattlegroundStates_92916.pdf
+2016,2016,2016381,4,Virginia,2016-09-21,2016-09-23,1237,557,458,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/6pjlgkhppd/VA_ForRelease_20160925.pdf
+2016,2016,2016048,4,Virginia,2016-09-13,2016-09-21,659,297,257,https://web.archive.org/web/20160923112443/https://www.qu.edu/images/polling/ps/ps09222016_sp72mk.pdf
+2016,2016,2016375,4,Virginia,2016-09-11,2016-09-20,841,370,311,http://www.roanoke.edu/Documents/rcpoll/RCPoll.Politics.Sept2016.Qs%20Freqs.pdf
+2016,2016,2016377,4,Virginia,2016-09-09,2016-09-11,878,395,342,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_VA_91316.pdf
+2016,2016,2016382,5,Virginia,2016-11-01,2016-11-06,1193,573,501,http://cnu.edu/cpp/pdf/nov%207%202016%20report-final.pdf
+2016,2016,2016043,5,Virginia,2016-11-03,2016-11-04,1238,594,532,http://www.publicpolicypolling.com/pdf/2015/PPP_Release_COMIVA_110416.pdf
+2016,2016,2016369,5,Virginia,2016-10-29,2016-11-01,654,294,249,http://www.roanoke.edu/about/news/rc_poll_nov_2016_politics
+2016,2016,2016372,5,Virginia,2016-10-23,2016-10-30,712,313,278,https://web.archive.org/web/20120321213048/http://www.winthrop.edu/winthroppoll/default.aspx?id=9804
+2016,2016,2016383,5,Virginia,2016-10-23,2016-10-26,814,374,317,http://cnu.edu/cpp/pdf/oct%2028%202016%20report-final.pdf
+2016,2016,2016384,5,Virginia,2016-10-16,2016-10-19,834,375,275,https://web.archive.org/web/20161018082241/http://cnu.edu/cpp/pdf/oct%2016%202016%20report-final.pdf
+2016,2016,2016385,5,Virginia,2016-10-12,2016-10-15,500,235,190,https://www.vachamber.com/wp-content/uploads/2016/10/15420-VA-SW-Survey-Findings.pdf
+2016,2016,2016386,5,Virginia,2016-10-11,2016-10-14,809,356,235,https://web.archive.org/web/20161016125224/http://cnu.edu/cpp/pdf/oct%2016%202016%20report-final.pdf
+2016,2016,2016387,5,Virginia,2016-10-02,2016-10-06,814,366,293,http://www.roanoke.edu/about/news/rc_poll_oct_2016_politics
+2016,2016,2016388,5,Virginia,2016-09-27,2016-09-30,892,375,312,http://cnu.edu/cpp/pdf/oct%203%202016%20report-final.pdf
+2016,2016,2016374,5,Virginia,2016-09-15,2016-09-23,1003,391,331,http://cnu.edu/cpp/pdf/sept%2026%202016%20report-final.pdf
+2016,2016,2016376,5,Virginia,2016-09-06,2016-09-12,685,274,253,https://www.umw.edu/news/wp-content/uploads/sites/7/2016/09/UMW-VA-Survey-2016_First-Release-Topline.pdf
+2016,2016,2016012,2,Washington,2016-11-04,2016-11-06,402,221,157,https://web.archive.org/web/20161108135928/http://www.insightswest.com/news/clinton-is-ahead-of-trump-as-u-s-presidential-election-approaches/
+2016,2016,2016389,2,Washington,2016-10-06,2016-10-13,750,398,292,http://kcts9.org/programs/vote-2016/new-poll-finds-washington-state-often-divided-region-and-political-parties-many#method
+2016,2016,2016390,2,Washington,2016-09-29,2016-10-03,500,250,165,http://www.realclearpolitics.com/docs/2016/KOMO_Strategies_360_WA.pdf
+2016,2016,2016391,4,Washington,2016-10-31,2016-11-02,681,340,259,http://www.surveyusa.com/client/PollReport.aspx?g=befe5f60-092c-48e8-b36f-b5ae8e28048e
+2016,2016,2016392,4,Washington,2016-10-20,2016-10-22,502,241,156,https://www.documentcloud.org/documents/3173866-Elway-Poll-102416.html
+2016,2016,2016390,4,Washington,2016-09-29,2016-10-03,500,235,155,http://www.realclearpolitics.com/docs/2016/KOMO_Strategies_360_WA.pdf
+2016,2016,2016178,4,Washington,2016-09-25,2016-09-26,700,308,266,http://media.wix.com/ugd/3bebb2_c4ce441cb55942e99e386bf56daef127.pdf
+2016,2016,2016026,4,Washington,2016-09-12,2016-09-14,505,222,162,https://web.archive.org/web/20160930112543/http://www.insightswest.com/news/trump-leads-in-arizona-and-nevada-clinton-in-california-and-washington/
+2016,2016,2016393,2,West Virginia,2016-09-13,2016-09-17,500,140,300,https://www.scribd.com/document/325385571/WV-Gov-Garin-Hart-Yang-for-Doug-Reynolds-Sept-2016?link_id=37&can_id=3988fa989da190d30e93d8a03b9a4393&source=email-morning-digest-despite-trumps-strength-in-northern-maine-cain-argues-she-has-a-path-to-victory&ema
+2016,2016,2016394,3,West Virginia,2016-09-08,2016-09-10,600,180,342,http://wvmetronews.com/2016/09/19/gop-poll-shows-tight-gubernatorial-race-much-closer-than-metronews-west-virginia-poll/
+2016,2016,2016161,2,Wisconsin,2016-10-31,2016-11-01,891,428,365,https://cdn.americanprogress.org/content/uploads/sites/2/2016/11/03143903/NationalMemo112-Final.pdf
+2016,2016,2016395,2,Wisconsin,2016-10-31,2016-11-01,500,220,210,https://law.marquette.edu/poll/2016/10/12/press-release-title/
+2016,2016,2016396,2,Wisconsin,2016-10-18,2016-10-19,804,402,306,http://endcitizensunited.org/press-releases/3-of-26625-print-all-in-new-window-new-ecu-wisconsin-senate-poll-feingold-ahead-by-six/
+2016,2016,2016397,2,Wisconsin,2016-10-06,2016-10-09,878,404,369,https://law.marquette.edu/poll/2016/10/12/press-release-title/
+2016,2016,2016398,2,Wisconsin,2016-09-15,2016-09-18,677,298,284,https://law.marquette.edu/poll/2016/09/21/release-title/
+2016,2016,2016399,3,Wisconsin,2016-11-01,2016-11-02,2720,1333,1115,https://web.archive.org/web/20161107155917/http://docs.axiomstrategies.com/wp-content/uploads/2016/11/ABC_WI_STATEWIDE-110416.pdf
+2016,2016,2016400,3,Wisconsin,2016-10-23,2016-10-30,1172,539,492,http://www.realclearpolitics.com/docs/2016/Remington_Research_Wisconsin_October_31_2016.pdf
+2016,2016,2016401,3,Wisconsin,2016-10-20,2016-10-22,1795,826,736,http://big.assets.huffingtonpost.com/WISTATEWIDE.pdf
+2016,2016,2016395,4,Wisconsin,2016-10-31,2016-11-01,500,220,190,https://law.marquette.edu/poll/2016/10/12/press-release-title/
+2016,2016,2016402,4,Wisconsin,2016-10-26,2016-10-31,1190,547,476,https://law.marquette.edu/poll/2016/11/02/mlsp41release/
+2016,2016,2016203,4,Wisconsin,2016-10-27,2016-10-28,400,192,168,http://media.wix.com/ugd/3bebb2_136cb97bafca4b36838f08d63a5d1a0c.pdf
+2016,2016,2016403,4,Wisconsin,2016-10-18,2016-10-20,600,288,258,http://letamericawork.com/wisconsin-survey-executive-summary/
+2016,2016,2016404,4,Wisconsin,2016-10-15,2016-10-18,403,189,161,https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_WI_101916/
+2016,2016,2016405,4,Wisconsin,2016-10-13,2016-10-16,664,312,259,http://www.snc.edu/sri/docs/2016/201610_Fall_WI_Survey_President_Release.pdf
+2016,2016,2016397,4,Wisconsin,2016-10-06,2016-10-09,878,386,325,https://law.marquette.edu/poll/2016/10/12/press-release-title/
+2016,2016,2016406,4,Wisconsin,2016-10-05,2016-10-08,500,215,175,https://web.archive.org/web/20161011041220/http://myweb.loras.edu/Loras/PDF/LCPWIOctober102016.pdf
+2016,2016,2016290,4,Wisconsin,2016-10-05,2016-10-07,993,427,387,http://www.cbsnews.com/news/poll-gender-gap-in-views-on-trumps-2005-tape/?ftag=CNM-00-10aab7i&linkId=29728068
+2016,2016,2016087,4,Wisconsin,2016-09-19,2016-09-20,700,315,266,http://media.wix.com/ugd/3bebb2_4b2b9517da414c0fb1c825dfe5416794.pdf
+2016,2016,2016398,4,Wisconsin,2016-09-15,2016-09-18,677,278,257,https://law.marquette.edu/poll/2016/09/21/release-title/
+2016,2016,2016407,4,Wyoming,2016-10-05,2016-10-11,722,144,419,https://trib.com/news/state-and-regional/govt-and-politics/poll-finds-trump-cheney-way-ahead-in-wyoming/article_b9a2ba24-15f9-5051-92d4-33a4ef794153.html
+2016,2016,2016408,4,Wyoming,2016-09-06,2016-09-11,402,76,217,https://ru.scribd.com/document/324811878/WY-AL-DFM-Research-for-Ryan-Greene-Sept-2016
